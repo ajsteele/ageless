@@ -4,6 +4,13 @@ These scripts calculate various statistics used in the book [_Ageless: The new
 science of getting older without getting
 old_](https://andrewsteele.co.uk/ageless/).
 
+If you’re just here for the answers rather than the code, here they are:
+
+ * [How mortality varies with age](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/mortality-with-age.html)
+ * [Fraction of deaths attributable to ageing](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/deaths-caused-by-ageing.html)
+ * [Causes of death and disbility, incidence and deaths with age](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/causes-with-age.html)
+ * [Difference between female and male life expectancy](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/le-sex-difference.html)
+
 The data and code in this release are those that were used for the first
 publication of the book, in hardback form. Other references can be found at
 [andrewsteele.co.uk/ageless/references](https://andrewsteele.co.uk/ageless/references/)
