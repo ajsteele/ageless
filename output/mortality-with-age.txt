@@ -1,0 +1,881 @@
+  |                                                                                                                                                                                               |                                                                                                                                                                                       |   0%  |                                                                                                                                                                                               |.................                                                                                                                                                                      |   9%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |.................................                                                                                                                                                      |  18%
+label: initialisation
+  |                                                                                                                                                                                               |..................................................                                                                                                                                     |  27%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |...................................................................                                                                                                                    |  36%
+label: read_data
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  country_name = col_character(),
+  country_hmd = col_character(),
+  country_iso3c = col_character()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+Warning: 555 parsing failures.
+ row  col expected actual                                                  file
+8104 risk a double      . '../data/mortality.org/bltper_1x1/BEL.bltper_1x1.txt'
+8105 risk a double      . '../data/mortality.org/bltper_1x1/BEL.bltper_1x1.txt'
+8106 risk a double      . '../data/mortality.org/bltper_1x1/BEL.bltper_1x1.txt'
+8107 risk a double      . '../data/mortality.org/bltper_1x1/BEL.bltper_1x1.txt'
+8108 risk a double      . '../data/mortality.org/bltper_1x1/BEL.bltper_1x1.txt'
+.... .... ........ ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 2220 parsing failures.
+ row        col expected actual                                                  file
+8215 female     a double      . '../data/mortality.org/Population/BEL.Population.txt'
+8215 male       a double      . '../data/mortality.org/Population/BEL.Population.txt'
+8215 population a double      . '../data/mortality.org/Population/BEL.Population.txt'
+8216 female     a double      . '../data/mortality.org/Population/BEL.Population.txt'
+8216 male       a double      . '../data/mortality.org/Population/BEL.Population.txt'
+.... .......... ........ ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+3109 year no trailing characters  1949- '../data/mortality.org/Population/CAN.Population.txt'
+3110 year no trailing characters  1949- '../data/mortality.org/Population/CAN.Population.txt'
+3111 year no trailing characters  1949- '../data/mortality.org/Population/CAN.Population.txt'
+3112 year no trailing characters  1949- '../data/mortality.org/Population/CAN.Population.txt'
+3113 year no trailing characters  1949- '../data/mortality.org/Population/CAN.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+9547 year no trailing characters  1921- '../data/mortality.org/Population/DNK.Population.txt'
+9548 year no trailing characters  1921- '../data/mortality.org/Population/DNK.Population.txt'
+9549 year no trailing characters  1921- '../data/mortality.org/Population/DNK.Population.txt'
+9550 year no trailing characters  1921- '../data/mortality.org/Population/DNK.Population.txt'
+9551 year no trailing characters  1921- '../data/mortality.org/Population/DNK.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 1776 parsing failures.
+ row  col               expected actual                                                     file
+4996 year no trailing characters  1861- '../data/mortality.org/Population/FRATNP.Population.txt'
+4997 year no trailing characters  1861- '../data/mortality.org/Population/FRATNP.Population.txt'
+4998 year no trailing characters  1861- '../data/mortality.org/Population/FRATNP.Population.txt'
+4999 year no trailing characters  1861- '../data/mortality.org/Population/FRATNP.Population.txt'
+5000 year no trailing characters  1861- '../data/mortality.org/Population/FRATNP.Population.txt'
+.... .... ...................... ...... ........................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 888 parsing failures.
+ row  col               expected actual                                                  file
+5773 year no trailing characters  1924- '../data/mortality.org/Population/ITA.Population.txt'
+5774 year no trailing characters  1924- '../data/mortality.org/Population/ITA.Population.txt'
+5775 year no trailing characters  1924- '../data/mortality.org/Population/ITA.Population.txt'
+5776 year no trailing characters  1924- '../data/mortality.org/Population/ITA.Population.txt'
+5777 year no trailing characters  1924- '../data/mortality.org/Population/ITA.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+2887 year no trailing characters  1973- '../data/mortality.org/Population/JPN.Population.txt'
+2888 year no trailing characters  1973- '../data/mortality.org/Population/JPN.Population.txt'
+2889 year no trailing characters  1973- '../data/mortality.org/Population/JPN.Population.txt'
+2890 year no trailing characters  1973- '../data/mortality.org/Population/JPN.Population.txt'
+2891 year no trailing characters  1973- '../data/mortality.org/Population/JPN.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                     file
+4774 year no trailing characters  1991- '../data/mortality.org/Population/NZL_NP.Population.txt'
+4775 year no trailing characters  1991- '../data/mortality.org/Population/NZL_NP.Population.txt'
+4776 year no trailing characters  1991- '../data/mortality.org/Population/NZL_NP.Population.txt'
+4777 year no trailing characters  1991- '../data/mortality.org/Population/NZL_NP.Population.txt'
+4778 year no trailing characters  1991- '../data/mortality.org/Population/NZL_NP.Population.txt'
+.... .... ...................... ...... ........................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+4774 year no trailing characters  2001- '../data/mortality.org/Population/POL.Population.txt'
+4775 year no trailing characters  2001- '../data/mortality.org/Population/POL.Population.txt'
+4776 year no trailing characters  2001- '../data/mortality.org/Population/POL.Population.txt'
+4777 year no trailing characters  2001- '../data/mortality.org/Population/POL.Population.txt'
+4778 year no trailing characters  2001- '../data/mortality.org/Population/POL.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+7438 year no trailing characters  1975- '../data/mortality.org/Population/ESP.Population.txt'
+7439 year no trailing characters  1975- '../data/mortality.org/Population/ESP.Population.txt'
+7440 year no trailing characters  1975- '../data/mortality.org/Population/ESP.Population.txt'
+7441 year no trailing characters  1975- '../data/mortality.org/Population/ESP.Population.txt'
+7442 year no trailing characters  1975- '../data/mortality.org/Population/ESP.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+2443 year no trailing characters  1992- '../data/mortality.org/Population/TWN.Population.txt'
+2444 year no trailing characters  1992- '../data/mortality.org/Population/TWN.Population.txt'
+2445 year no trailing characters  1992- '../data/mortality.org/Population/TWN.Population.txt'
+2446 year no trailing characters  1992- '../data/mortality.org/Population/TWN.Population.txt'
+2447 year no trailing characters  1992- '../data/mortality.org/Population/TWN.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  risk = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  year = col_double(),
+  age = col_double(),
+  deleteme = col_character(),
+  female = col_double(),
+  male = col_double(),
+  population = col_double()
+)
+
+Warning: 222 parsing failures.
+ row  col               expected actual                                                  file
+2887 year no trailing characters  1959- '../data/mortality.org/Population/USA.Population.txt'
+2888 year no trailing characters  1959- '../data/mortality.org/Population/USA.Population.txt'
+2889 year no trailing characters  1959- '../data/mortality.org/Population/USA.Population.txt'
+2890 year no trailing characters  1959- '../data/mortality.org/Population/USA.Population.txt'
+2891 year no trailing characters  1959- '../data/mortality.org/Population/USA.Population.txt'
+.... .... ...................... ...... .....................................................
+See problems(...) for more details.
+
+`summarise()` regrouping output by 'country' (override with `.groups` argument)
+Joining, by = c("year", "country")
+`summarise()` regrouping output by 'country' (override with `.groups` argument)
+`summarise()` ungrouping output (override with `.groups` argument)
+  |                                                                                                                                                                                               |...................................................................................                                                                                                    |  45%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |....................................................................................................                                                                                   |  55%
+label: mortality_with_age_graphs
+  |                                                                                                                                                                                               |....................................................................................................................                                                                   |  64%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |.....................................................................................................................................                                                  |  73%
+label: numerical_results
+  |                                                                                                                                                                                               |......................................................................................................................................................                                 |  82%
+   inline R code fragments
+
+  |                                                                                                                                                                                               |......................................................................................................................................................................                 |  91%
+label: unnamed-chunk-1
+  |                                                                                                                                                                                               |.......................................................................................................................................................................................| 100%
+  ordinary text without R code
+
+

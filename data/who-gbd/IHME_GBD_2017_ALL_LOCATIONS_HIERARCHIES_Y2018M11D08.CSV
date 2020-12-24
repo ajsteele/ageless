@@ -1,0 +1,1454 @@
+location_set_version_id,location_id,location_name,parent_id,level,sort_order
+423,1,Global,1,0,1
+423,44637,Low SDI,1,1,2
+423,44636,Low-middle SDI,1,1,3
+423,44639,Middle SDI,1,1,4
+423,44634,High-middle SDI,1,1,5
+423,44635,High SDI,1,1,6
+423,31,"Central Europe, Eastern Europe, and Central Asia",1,1,7
+423,32,Central Asia,31,2,8
+423,33,Armenia,32,3,9
+423,34,Azerbaijan,32,3,10
+423,35,Georgia,32,3,11
+423,36,Kazakhstan,32,3,12
+423,37,Kyrgyzstan,32,3,13
+423,38,Mongolia,32,3,14
+423,39,Tajikistan,32,3,15
+423,40,Turkmenistan,32,3,16
+423,41,Uzbekistan,32,3,17
+423,42,Central Europe,31,2,18
+423,43,Albania,42,3,19
+423,44,Bosnia and Herzegovina,42,3,20
+423,45,Bulgaria,42,3,21
+423,46,Croatia,42,3,22
+423,47,Czech Republic,42,3,23
+423,48,Hungary,42,3,24
+423,49,Macedonia,42,3,25
+423,50,Montenegro,42,3,26
+423,51,Poland,42,3,27
+423,52,Romania,42,3,28
+423,53,Serbia,42,3,29
+423,54,Slovakia,42,3,30
+423,55,Slovenia,42,3,31
+423,56,Eastern Europe,31,2,32
+423,57,Belarus,56,3,33
+423,58,Estonia,56,3,34
+423,59,Latvia,56,3,35
+423,60,Lithuania,56,3,36
+423,61,Moldova,56,3,37
+423,62,Russian Federation,56,3,38
+423,63,Ukraine,56,3,39
+423,64,High-income,1,1,40
+423,70,Australasia,64,2,41
+423,71,Australia,70,3,42
+423,72,New Zealand,70,3,43
+423,65,High-income Asia Pacific,64,2,44
+423,66,Brunei,65,3,45
+423,67,Japan,65,3,46
+423,35446,Aichi,67,4,47
+423,35428,Akita,67,4,48
+423,35425,Aomori,67,4,49
+423,35435,Chiba,67,4,50
+423,35461,Ehime,67,4,51
+423,35441,Fukui,67,4,52
+423,35463,Fukuoka,67,4,53
+423,35430,Fukushima,67,4,54
+423,35444,Gifu,67,4,55
+423,35433,Gunma,67,4,56
+423,35457,Hiroshima,67,4,57
+423,35424,Hokkaid?,67,4,58
+423,35451,Hy?go,67,4,59
+423,35431,Ibaraki,67,4,60
+423,35440,Ishikawa,67,4,61
+423,35426,Iwate,67,4,62
+423,35460,Kagawa,67,4,63
+423,35469,Kagoshima,67,4,64
+423,35437,Kanagawa,67,4,65
+423,35462,K?chi,67,4,66
+423,35466,Kumamoto,67,4,67
+423,35449,Ky?to,67,4,68
+423,35447,Mie,67,4,69
+423,35427,Miyagi,67,4,70
+423,35468,Miyazaki,67,4,71
+423,35443,Nagano,67,4,72
+423,35465,Nagasaki,67,4,73
+423,35452,Nara,67,4,74
+423,35438,Niigata,67,4,75
+423,35467,?ita,67,4,76
+423,35456,Okayama,67,4,77
+423,35470,Okinawa,67,4,78
+423,35450,?saka,67,4,79
+423,35464,Saga,67,4,80
+423,35434,Saitama,67,4,81
+423,35448,Shiga,67,4,82
+423,35455,Shimane,67,4,83
+423,35445,Shizuoka,67,4,84
+423,35432,Tochigi,67,4,85
+423,35459,Tokushima,67,4,86
+423,35436,T?ky?,67,4,87
+423,35454,Tottori,67,4,88
+423,35439,Toyama,67,4,89
+423,35453,Wakayama,67,4,90
+423,35429,Yamagata,67,4,91
+423,35458,Yamaguchi,67,4,92
+423,35442,Yamanashi,67,4,93
+423,68,South Korea,65,3,94
+423,69,Singapore,65,3,95
+423,100,High-income North America,64,2,96
+423,101,Canada,100,3,97
+423,349,Greenland,100,3,98
+423,102,United States,100,3,99
+423,523,Alabama,102,4,100
+423,524,Alaska,102,4,101
+423,525,Arizona,102,4,102
+423,526,Arkansas,102,4,103
+423,527,California,102,4,104
+423,528,Colorado,102,4,105
+423,529,Connecticut,102,4,106
+423,530,Delaware,102,4,107
+423,531,District of Columbia,102,4,108
+423,532,Florida,102,4,109
+423,533,Georgia,102,4,110
+423,534,Hawaii,102,4,111
+423,535,Idaho,102,4,112
+423,536,Illinois,102,4,113
+423,537,Indiana,102,4,114
+423,538,Iowa,102,4,115
+423,539,Kansas,102,4,116
+423,540,Kentucky,102,4,117
+423,541,Louisiana,102,4,118
+423,542,Maine,102,4,119
+423,543,Maryland,102,4,120
+423,544,Massachusetts,102,4,121
+423,545,Michigan,102,4,122
+423,546,Minnesota,102,4,123
+423,547,Mississippi,102,4,124
+423,548,Missouri,102,4,125
+423,549,Montana,102,4,126
+423,550,Nebraska,102,4,127
+423,551,Nevada,102,4,128
+423,552,New Hampshire,102,4,129
+423,553,New Jersey,102,4,130
+423,554,New Mexico,102,4,131
+423,555,New York,102,4,132
+423,556,North Carolina,102,4,133
+423,557,North Dakota,102,4,134
+423,558,Ohio,102,4,135
+423,559,Oklahoma,102,4,136
+423,560,Oregon,102,4,137
+423,561,Pennsylvania,102,4,138
+423,562,Rhode Island,102,4,139
+423,563,South Carolina,102,4,140
+423,564,South Dakota,102,4,141
+423,565,Tennessee,102,4,142
+423,566,Texas,102,4,143
+423,567,Utah,102,4,144
+423,568,Vermont,102,4,145
+423,569,Virginia,102,4,146
+423,570,Washington,102,4,147
+423,571,West Virginia,102,4,148
+423,572,Wisconsin,102,4,149
+423,573,Wyoming,102,4,150
+423,96,Southern Latin America,64,2,151
+423,97,Argentina,96,3,152
+423,98,Chile,96,3,153
+423,99,Uruguay,96,3,154
+423,73,Western Europe,64,2,155
+423,74,Andorra,73,3,156
+423,75,Austria,73,3,157
+423,76,Belgium,73,3,158
+423,77,Cyprus,73,3,159
+423,78,Denmark,73,3,160
+423,79,Finland,73,3,161
+423,80,France,73,3,162
+423,81,Germany,73,3,163
+423,82,Greece,73,3,164
+423,83,Iceland,73,3,165
+423,84,Ireland,73,3,166
+423,85,Israel,73,3,167
+423,86,Italy,73,3,168
+423,87,Luxembourg,73,3,169
+423,88,Malta,73,3,170
+423,89,Netherlands,73,3,171
+423,90,Norway,73,3,172
+423,91,Portugal,73,3,173
+423,92,Spain,73,3,174
+423,93,Sweden,73,3,175
+423,4944,Stockholm,93,4,176
+423,4940,Sweden except Stockholm,93,4,177
+423,94,Switzerland,73,3,178
+423,95,United Kingdom,73,3,179
+423,4749,England,95,4,180
+423,4621,East Midlands,4749,5,181
+423,4623,East of England,4749,5,182
+423,4624,Greater London,4749,5,183
+423,4618,North East England,4749,5,184
+423,4619,North West England,4749,5,185
+423,4625,South East England,4749,5,186
+423,4626,South West England,4749,5,187
+423,4622,West Midlands,4749,5,188
+423,4620,Yorkshire and the Humber,4749,5,189
+423,433,Northern Ireland,95,4,190
+423,434,Scotland,95,4,191
+423,4636,Wales,95,4,192
+423,103,Latin America and Caribbean,1,1,193
+423,120,Andean Latin America,103,2,194
+423,121,Bolivia,120,3,195
+423,122,Ecuador,120,3,196
+423,123,Peru,120,3,197
+423,104,Caribbean,103,2,198
+423,105,Antigua and Barbuda,104,3,199
+423,106,The Bahamas,104,3,200
+423,107,Barbados,104,3,201
+423,108,Belize,104,3,202
+423,305,Bermuda,104,3,203
+423,109,Cuba,104,3,204
+423,110,Dominica,104,3,205
+423,111,Dominican Republic,104,3,206
+423,112,Grenada,104,3,207
+423,113,Guyana,104,3,208
+423,114,Haiti,104,3,209
+423,115,Jamaica,104,3,210
+423,385,Puerto Rico,104,3,211
+423,116,Saint Lucia,104,3,212
+423,117,Saint Vincent and the Grenadines,104,3,213
+423,118,Suriname,104,3,214
+423,119,Trinidad and Tobago,104,3,215
+423,422,"Virgin Islands, U.S.",104,3,216
+423,124,Central Latin America,103,2,217
+423,125,Colombia,124,3,218
+423,126,Costa Rica,124,3,219
+423,127,El Salvador,124,3,220
+423,128,Guatemala,124,3,221
+423,129,Honduras,124,3,222
+423,130,Mexico,124,3,223
+423,4643,Aguascalientes,130,4,224
+423,4644,Baja California,130,4,225
+423,4645,Baja California Sur,130,4,226
+423,4646,Campeche,130,4,227
+423,4649,Chiapas,130,4,228
+423,4650,Chihuahua,130,4,229
+423,4647,Coahuila,130,4,230
+423,4648,Colima,130,4,231
+423,4652,Durango,130,4,232
+423,4653,Guanajuato,130,4,233
+423,4654,Guerrero,130,4,234
+423,4655,Hidalgo,130,4,235
+423,4656,Jalisco,130,4,236
+423,4657,México,130,4,237
+423,4651,Mexico City,130,4,238
+423,4658,Michoacán de Ocampo,130,4,239
+423,4659,Morelos,130,4,240
+423,4660,Nayarit,130,4,241
+423,4661,Nuevo León,130,4,242
+423,4662,Oaxaca,130,4,243
+423,4663,Puebla,130,4,244
+423,4664,Querétaro,130,4,245
+423,4665,Quintana Roo,130,4,246
+423,4666,San Luis Potosí,130,4,247
+423,4667,Sinaloa,130,4,248
+423,4668,Sonora,130,4,249
+423,4669,Tabasco,130,4,250
+423,4670,Tamaulipas,130,4,251
+423,4671,Tlaxcala,130,4,252
+423,4672,Veracruz de Ignacio de la Llave,130,4,253
+423,4673,Yucatán,130,4,254
+423,4674,Zacatecas,130,4,255
+423,131,Nicaragua,124,3,256
+423,132,Panama,124,3,257
+423,133,Venezuela,124,3,258
+423,134,Tropical Latin America,103,2,259
+423,135,Brazil,134,3,260
+423,4750,Acre,135,4,261
+423,4751,Alagoas,135,4,262
+423,4753,Amapá,135,4,263
+423,4752,Amazonas,135,4,264
+423,4754,Bahia,135,4,265
+423,4755,Ceará,135,4,266
+423,4756,Distrito Federal,135,4,267
+423,4757,Espírito Santo,135,4,268
+423,4758,Goiás,135,4,269
+423,4759,Maranhão,135,4,270
+423,4762,Mato Grosso,135,4,271
+423,4761,Mato Grosso do Sul,135,4,272
+423,4760,Minas Gerais,135,4,273
+423,4763,Pará,135,4,274
+423,4764,Paraíba,135,4,275
+423,4765,Paraná,135,4,276
+423,4766,Pernambuco,135,4,277
+423,4767,Piaui,135,4,278
+423,4768,Rio de Janeiro,135,4,279
+423,4769,Rio Grande do Norte,135,4,280
+423,4772,Rio Grande do Sul,135,4,281
+423,4770,Rondônia,135,4,282
+423,4771,Roraima,135,4,283
+423,4773,Santa Catarina,135,4,284
+423,4775,São Paulo,135,4,285
+423,4774,Sergipe,135,4,286
+423,4776,Tocantins,135,4,287
+423,136,Paraguay,134,3,288
+423,137,North Africa and Middle East,1,1,289
+423,138,North Africa and Middle East,137,2,290
+423,160,Afghanistan,138,3,291
+423,139,Algeria,138,3,292
+423,140,Bahrain,138,3,293
+423,141,Egypt,138,3,294
+423,142,Iran,138,3,295
+423,143,Iraq,138,3,296
+423,144,Jordan,138,3,297
+423,145,Kuwait,138,3,298
+423,146,Lebanon,138,3,299
+423,147,Libya,138,3,300
+423,148,Morocco,138,3,301
+423,149,Palestine,138,3,302
+423,150,Oman,138,3,303
+423,151,Qatar,138,3,304
+423,152,Saudi Arabia,138,3,305
+423,522,Sudan,138,3,306
+423,153,Syria,138,3,307
+423,154,Tunisia,138,3,308
+423,155,Turkey,138,3,309
+423,156,United Arab Emirates,138,3,310
+423,157,Yemen,138,3,311
+423,158,South Asia,1,1,312
+423,159,South Asia,158,2,313
+423,161,Bangladesh,159,3,314
+423,162,Bhutan,159,3,315
+423,163,India,159,3,316
+423,164,Nepal,159,3,317
+423,165,Pakistan,159,3,318
+423,4,"Southeast Asia, East Asia, and Oceania",1,1,319
+423,5,East Asia,4,2,320
+423,6,China,5,3,321
+423,7,North Korea,5,3,322
+423,8,Taiwan,5,3,323
+423,21,Oceania,4,2,324
+423,298,American Samoa,21,3,325
+423,25,Federated States of Micronesia,21,3,326
+423,22,Fiji,21,3,327
+423,351,Guam,21,3,328
+423,23,Kiribati,21,3,329
+423,24,Marshall Islands,21,3,330
+423,376,Northern Mariana Islands,21,3,331
+423,26,Papua New Guinea,21,3,332
+423,27,Samoa,21,3,333
+423,28,Solomon Islands,21,3,334
+423,29,Tonga,21,3,335
+423,30,Vanuatu,21,3,336
+423,9,Southeast Asia,4,2,337
+423,10,Cambodia,9,3,338
+423,11,Indonesia,9,3,339
+423,4709,Aceh,11,4,340
+423,4726,Bali,11,4,341
+423,4717,Bangka-Belitung Islands,11,4,342
+423,4725,Banten,11,4,343
+423,4715,Bengkulu,11,4,344
+423,4737,Gorontalo,11,4,345
+423,4720,Jakarta,11,4,346
+423,4713,Jambi,11,4,347
+423,4721,West Java,11,4,348
+423,4722,Central Java,11,4,349
+423,4724,East Java,11,4,350
+423,4729,West Kalimantan,11,4,351
+423,4731,South Kalimantan,11,4,352
+423,4730,Central Kalimantan,11,4,353
+423,4732,East Kalimantan,11,4,354
+423,4719,North Kalimantan,11,4,355
+423,4718,Riau Islands,11,4,356
+423,4716,Lampung,11,4,357
+423,4739,Maluku,11,4,358
+423,4740,North Maluku,11,4,359
+423,4727,West Nusa Tenggara,11,4,360
+423,4728,East Nusa Tenggara,11,4,361
+423,4742,Papua,11,4,362
+423,4741,West Papua,11,4,363
+423,4712,Riau,11,4,364
+423,4738,West Sulawesi,11,4,365
+423,4735,South Sulawesi,11,4,366
+423,4734,Central Sulawesi,11,4,367
+423,4736,Southeast Sulawesi,11,4,368
+423,4733,North Sulawesi,11,4,369
+423,4711,West Sumatra,11,4,370
+423,4714,South Sumatra,11,4,371
+423,4710,North Sumatra,11,4,372
+423,4723,Yogyakarta,11,4,373
+423,12,Laos,9,3,374
+423,13,Malaysia,9,3,375
+423,14,Maldives,9,3,376
+423,183,Mauritius,9,3,377
+423,15,Myanmar,9,3,378
+423,16,Philippines,9,3,379
+423,17,Sri Lanka,9,3,380
+423,186,Seychelles,9,3,381
+423,18,Thailand,9,3,382
+423,19,Timor-Leste,9,3,383
+423,20,Vietnam,9,3,384
+423,166,Sub-Saharan Africa,1,1,385
+423,167,Central Sub-Saharan Africa,166,2,386
+423,168,Angola,167,3,387
+423,169,Central African Republic,167,3,388
+423,170,Congo,167,3,389
+423,171,Democratic Republic of the Congo,167,3,390
+423,172,Equatorial Guinea,167,3,391
+423,173,Gabon,167,3,392
+423,174,Eastern Sub-Saharan Africa,166,2,393
+423,175,Burundi,174,3,394
+423,176,Comoros,174,3,395
+423,177,Djibouti,174,3,396
+423,178,Eritrea,174,3,397
+423,179,Ethiopia,174,3,398
+423,180,Kenya,174,3,399
+423,181,Madagascar,174,3,400
+423,182,Malawi,174,3,401
+423,184,Mozambique,174,3,402
+423,185,Rwanda,174,3,403
+423,187,Somalia,174,3,404
+423,435,South Sudan,174,3,405
+423,189,Tanzania,174,3,406
+423,190,Uganda,174,3,407
+423,191,Zambia,174,3,408
+423,192,Southern Sub-Saharan Africa,166,2,409
+423,193,Botswana,192,3,410
+423,194,Lesotho,192,3,411
+423,195,Namibia,192,3,412
+423,196,South Africa,192,3,413
+423,197,Swaziland,192,3,414
+423,198,Zimbabwe,192,3,415
+423,199,Western Sub-Saharan Africa,166,2,416
+423,200,Benin,199,3,417
+423,201,Burkina Faso,199,3,418
+423,202,Cameroon,199,3,419
+423,203,Cape Verde,199,3,420
+423,204,Chad,199,3,421
+423,205,Cote d'Ivoire,199,3,422
+423,206,The Gambia,199,3,423
+423,207,Ghana,199,3,424
+423,208,Guinea,199,3,425
+423,209,Guinea-Bissau,199,3,426
+423,210,Liberia,199,3,427
+423,211,Mali,199,3,428
+423,212,Mauritania,199,3,429
+423,213,Niger,199,3,430
+423,214,Nigeria,199,3,431
+423,215,Sao Tome and Principe,199,3,432
+423,216,Senegal,199,3,433
+423,217,Sierra Leone,199,3,434
+423,218,Togo,199,3,435
+385,44587,African Union,44587,0,1
+385,139,Algeria,44587,1,2
+385,168,Angola,44587,1,3
+385,200,Benin,44587,1,4
+385,193,Botswana,44587,1,5
+385,201,Burkina Faso,44587,1,6
+385,175,Burundi,44587,1,7
+385,202,Cameroon,44587,1,8
+385,203,Cape Verde,44587,1,9
+385,169,Central African Republic,44587,1,10
+385,204,Chad,44587,1,11
+385,176,Comoros,44587,1,12
+385,170,Congo,44587,1,13
+385,205,Cote d'Ivoire,44587,1,14
+385,171,Democratic Republic of the Congo,44587,1,15
+385,177,Djibouti,44587,1,16
+385,141,Egypt,44587,1,17
+385,172,Equatorial Guinea,44587,1,18
+385,178,Eritrea,44587,1,19
+385,179,Ethiopia,44587,1,20
+385,173,Gabon,44587,1,21
+385,207,Ghana,44587,1,22
+385,208,Guinea,44587,1,23
+385,209,Guinea-Bissau,44587,1,24
+385,180,Kenya,44587,1,25
+385,194,Lesotho,44587,1,26
+385,210,Liberia,44587,1,27
+385,147,Libya,44587,1,28
+385,181,Madagascar,44587,1,29
+385,182,Malawi,44587,1,30
+385,211,Mali,44587,1,31
+385,212,Mauritania,44587,1,32
+385,183,Mauritius,44587,1,33
+385,184,Mozambique,44587,1,34
+385,195,Namibia,44587,1,35
+385,213,Niger,44587,1,36
+385,214,Nigeria,44587,1,37
+385,185,Rwanda,44587,1,38
+385,215,Sao Tome and Principe,44587,1,39
+385,216,Senegal,44587,1,40
+385,186,Seychelles,44587,1,41
+385,217,Sierra Leone,44587,1,42
+385,187,Somalia,44587,1,43
+385,196,South Africa,44587,1,44
+385,435,South Sudan,44587,1,45
+385,522,Sudan,44587,1,46
+385,197,Swaziland,44587,1,47
+385,189,Tanzania,44587,1,48
+385,206,The Gambia,44587,1,49
+385,218,Togo,44587,1,50
+385,154,Tunisia,44587,1,51
+385,190,Uganda,44587,1,52
+385,191,Zambia,44587,1,53
+385,198,Zimbabwe,44587,1,54
+380,44534,Commonwealth,44534,0,1
+380,44535,Commonwealth High Income,44534,1,2
+380,105,Antigua and Barbuda,44535,2,3
+380,71,Australia,44535,2,4
+380,107,Barbados,44535,2,5
+380,66,Brunei,44535,2,6
+380,101,Canada,44535,2,7
+380,77,Cyprus,44535,2,8
+380,88,Malta,44535,2,9
+380,72,New Zealand,44535,2,10
+380,186,Seychelles,44535,2,10.5
+380,69,Singapore,44535,2,11
+380,106,The Bahamas,44535,2,12
+380,119,Trinidad and Tobago,44535,2,13
+380,95,United Kingdom,44535,2,14
+380,44536,Commonwealth Middle Income,44534,1,15
+380,108,Belize,44536,2,16
+380,193,Botswana,44536,2,17
+380,202,Cameroon,44536,2,18
+380,110,Dominica,44536,2,19
+380,22,Fiji,44536,2,20
+380,207,Ghana,44536,2,21
+380,112,Grenada,44536,2,22
+380,113,Guyana,44536,2,23
+380,163,India,44536,2,24
+380,115,Jamaica,44536,2,25
+380,23,Kiribati,44536,2,26
+380,194,Lesotho,44536,2,27
+380,13,Malaysia,44536,2,28
+380,183,Mauritius,44536,2,30
+380,195,Namibia,44536,2,31
+380,214,Nigeria,44536,2,32
+380,165,Pakistan,44536,2,33
+380,26,Papua New Guinea,44536,2,34
+380,116,Saint Lucia,44536,2,35
+380,117,Saint Vincent and the Grenadines,44536,2,36
+380,27,Samoa,44536,2,37
+380,28,Solomon Islands,44536,2,39
+380,196,South Africa,44536,2,40
+380,17,Sri Lanka,44536,2,41
+380,197,Swaziland,44536,2,42
+380,29,Tonga,44536,2,43
+380,30,Vanuatu,44536,2,44
+380,191,Zambia,44536,2,45
+380,44537,Commonwealth Low Income,44534,1,46
+380,161,Bangladesh,44537,2,47
+380,180,Kenya,44537,2,48
+380,182,Malawi,44537,2,49
+380,184,Mozambique,44537,2,50
+380,185,Rwanda,44537,2,51
+380,217,Sierra Leone,44537,2,52
+380,189,Tanzania,44537,2,53
+380,190,Uganda,44537,2,54
+379,4743,European Union,4743,0,1
+379,75,Austria,4743,1,10
+379,76,Belgium,4743,1,20
+379,45,Bulgaria,4743,1,30
+379,46,Croatia,4743,1,40
+379,77,Cyprus,4743,1,50
+379,47,Czech Republic,4743,1,60
+379,78,Denmark,4743,1,70
+379,58,Estonia,4743,1,80
+379,79,Finland,4743,1,90
+379,80,France,4743,1,100
+379,81,Germany,4743,1,110
+379,82,Greece,4743,1,120
+379,48,Hungary,4743,1,130
+379,84,Ireland,4743,1,140
+379,86,Italy,4743,1,150
+379,59,Latvia,4743,1,160
+379,60,Lithuania,4743,1,170
+379,87,Luxembourg,4743,1,180
+379,88,Malta,4743,1,190
+379,89,Netherlands,4743,1,200
+379,51,Poland,4743,1,210
+379,91,Portugal,4743,1,220
+379,52,Romania,4743,1,230
+379,54,Slovakia,4743,1,240
+379,55,Slovenia,4743,1,250
+379,92,Spain,4743,1,260
+379,93,Sweden,4743,1,270
+379,95,United Kingdom,4743,1,280
+381,44590,Four World Regions,44590,0,1
+381,44559,Africa,44590,1,2
+381,139,Algeria,44559,2,3
+381,168,Angola,44559,2,4
+381,200,Benin,44559,2,5
+381,193,Botswana,44559,2,6
+381,201,Burkina Faso,44559,2,7
+381,175,Burundi,44559,2,8
+381,202,Cameroon,44559,2,9
+381,203,Cape Verde,44559,2,10
+381,169,Central African Republic,44559,2,11
+381,204,Chad,44559,2,12
+381,176,Comoros,44559,2,13
+381,170,Congo,44559,2,14
+381,205,Cote d'Ivoire,44559,2,15
+381,171,Democratic Republic of the Congo,44559,2,16
+381,177,Djibouti,44559,2,17
+381,141,Egypt,44559,2,18
+381,172,Equatorial Guinea,44559,2,19
+381,178,Eritrea,44559,2,20
+381,179,Ethiopia,44559,2,21
+381,173,Gabon,44559,2,22
+381,207,Ghana,44559,2,23
+381,208,Guinea,44559,2,24
+381,209,Guinea-Bissau,44559,2,25
+381,180,Kenya,44559,2,26
+381,194,Lesotho,44559,2,27
+381,210,Liberia,44559,2,28
+381,147,Libya,44559,2,29
+381,181,Madagascar,44559,2,30
+381,182,Malawi,44559,2,31
+381,211,Mali,44559,2,32
+381,212,Mauritania,44559,2,33
+381,183,Mauritius,44559,2,34
+381,148,Morocco,44559,2,35
+381,184,Mozambique,44559,2,36
+381,195,Namibia,44559,2,37
+381,213,Niger,44559,2,38
+381,214,Nigeria,44559,2,39
+381,185,Rwanda,44559,2,40
+381,215,Sao Tome and Principe,44559,2,41
+381,216,Senegal,44559,2,42
+381,186,Seychelles,44559,2,43
+381,217,Sierra Leone,44559,2,44
+381,187,Somalia,44559,2,45
+381,196,South Africa,44559,2,46
+381,435,South Sudan,44559,2,47
+381,522,Sudan,44559,2,48
+381,197,Swaziland,44559,2,49
+381,189,Tanzania,44559,2,50
+381,206,The Gambia,44559,2,51
+381,218,Togo,44559,2,52
+381,154,Tunisia,44559,2,53
+381,190,Uganda,44559,2,54
+381,191,Zambia,44559,2,55
+381,198,Zimbabwe,44559,2,56
+381,44560,America,44590,1,57
+381,105,Antigua and Barbuda,44560,2,58
+381,97,Argentina,44560,2,59
+381,107,Barbados,44560,2,60
+381,108,Belize,44560,2,61
+381,121,Bolivia,44560,2,62
+381,135,Brazil,44560,2,63
+381,101,Canada,44560,2,64
+381,98,Chile,44560,2,65
+381,125,Colombia,44560,2,66
+381,126,Costa Rica,44560,2,67
+381,109,Cuba,44560,2,68
+381,110,Dominica,44560,2,69
+381,111,Dominican Republic,44560,2,70
+381,122,Ecuador,44560,2,71
+381,127,El Salvador,44560,2,72
+381,112,Grenada,44560,2,73
+381,128,Guatemala,44560,2,74
+381,113,Guyana,44560,2,75
+381,114,Haiti,44560,2,76
+381,129,Honduras,44560,2,77
+381,115,Jamaica,44560,2,78
+381,130,Mexico,44560,2,79
+381,131,Nicaragua,44560,2,80
+381,132,Panama,44560,2,81
+381,136,Paraguay,44560,2,82
+381,123,Peru,44560,2,83
+381,116,Saint Lucia,44560,2,84
+381,117,Saint Vincent and the Grenadines,44560,2,85
+381,118,Suriname,44560,2,86
+381,106,The Bahamas,44560,2,87
+381,119,Trinidad and Tobago,44560,2,88
+381,102,United States,44560,2,89
+381,99,Uruguay,44560,2,90
+381,133,Venezuela,44560,2,91
+381,44561,Asia,44590,1,92
+381,160,Afghanistan,44561,2,93
+381,71,Australia,44561,2,94
+381,140,Bahrain,44561,2,95
+381,161,Bangladesh,44561,2,96
+381,162,Bhutan,44561,2,97
+381,66,Brunei,44561,2,98
+381,10,Cambodia,44561,2,99
+381,6,China,44561,2,100
+381,25,Federated States of Micronesia,44561,2,101
+381,22,Fiji,44561,2,102
+381,163,India,44561,2,103
+381,11,Indonesia,44561,2,104
+381,142,Iran,44561,2,105
+381,143,Iraq,44561,2,106
+381,85,Israel,44561,2,107
+381,67,Japan,44561,2,108
+381,144,Jordan,44561,2,109
+381,36,Kazakhstan,44561,2,110
+381,23,Kiribati,44561,2,111
+381,145,Kuwait,44561,2,112
+381,37,Kyrgyzstan,44561,2,113
+381,12,Laos,44561,2,114
+381,146,Lebanon,44561,2,115
+381,13,Malaysia,44561,2,116
+381,14,Maldives,44561,2,117
+381,24,Marshall Islands,44561,2,118
+381,38,Mongolia,44561,2,119
+381,15,Myanmar,44561,2,120
+381,164,Nepal,44561,2,121
+381,72,New Zealand,44561,2,122
+381,7,North Korea,44561,2,123
+381,150,Oman,44561,2,124
+381,165,Pakistan,44561,2,125
+381,149,Palestine,44561,2,126
+381,26,Papua New Guinea,44561,2,127
+381,16,Philippines,44561,2,128
+381,151,Qatar,44561,2,129
+381,27,Samoa,44561,2,130
+381,152,Saudi Arabia,44561,2,131
+381,69,Singapore,44561,2,132
+381,28,Solomon Islands,44561,2,133
+381,68,South Korea,44561,2,134
+381,17,Sri Lanka,44561,2,135
+381,153,Syria,44561,2,136
+381,8,Taiwan,44561,2,137
+381,39,Tajikistan,44561,2,138
+381,18,Thailand,44561,2,139
+381,19,Timor-Leste,44561,2,140
+381,29,Tonga,44561,2,141
+381,40,Turkmenistan,44561,2,142
+381,156,United Arab Emirates,44561,2,143
+381,41,Uzbekistan,44561,2,144
+381,30,Vanuatu,44561,2,145
+381,20,Vietnam,44561,2,146
+381,157,Yemen,44561,2,147
+381,44562,Europe,44590,1,148
+381,43,Albania,44562,2,149
+381,74,Andorra,44562,2,150
+381,33,Armenia,44562,2,151
+381,75,Austria,44562,2,152
+381,34,Azerbaijan,44562,2,153
+381,57,Belarus,44562,2,154
+381,76,Belgium,44562,2,155
+381,44,Bosnia and Herzegovina,44562,2,156
+381,45,Bulgaria,44562,2,157
+381,46,Croatia,44562,2,158
+381,77,Cyprus,44562,2,159
+381,47,Czech Republic,44562,2,160
+381,78,Denmark,44562,2,161
+381,58,Estonia,44562,2,162
+381,79,Finland,44562,2,163
+381,80,France,44562,2,164
+381,35,Georgia,44562,2,165
+381,81,Germany,44562,2,166
+381,82,Greece,44562,2,167
+381,349,Greenland,44562,2,167.5
+381,48,Hungary,44562,2,168
+381,83,Iceland,44562,2,169
+381,84,Ireland,44562,2,170
+381,86,Italy,44562,2,171
+381,59,Latvia,44562,2,172
+381,60,Lithuania,44562,2,173
+381,87,Luxembourg,44562,2,174
+381,49,Macedonia,44562,2,175
+381,88,Malta,44562,2,176
+381,61,Moldova,44562,2,177
+381,50,Montenegro,44562,2,178
+381,89,Netherlands,44562,2,179
+381,90,Norway,44562,2,180
+381,51,Poland,44562,2,181
+381,91,Portugal,44562,2,182
+381,52,Romania,44562,2,183
+381,62,Russian Federation,44562,2,184
+381,53,Serbia,44562,2,185
+381,54,Slovakia,44562,2,186
+381,55,Slovenia,44562,2,187
+381,92,Spain,44562,2,188
+381,93,Sweden,44562,2,189
+381,94,Switzerland,44562,2,190
+381,155,Turkey,44562,2,191
+381,63,Ukraine,44562,2,192
+381,95,United Kingdom,44562,2,193
+384,44586,G20,44586,0,1
+384,97,Argentina,44586,1,2
+384,71,Australia,44586,1,3
+384,75,Austria,44586,1,4
+384,76,Belgium,44586,1,5
+384,135,Brazil,44586,1,6
+384,45,Bulgaria,44586,1,7
+384,101,Canada,44586,1,8
+384,6,China,44586,1,9
+384,46,Croatia,44586,1,10
+384,77,Cyprus,44586,1,11
+384,47,Czech Republic,44586,1,12
+384,78,Denmark,44586,1,13
+384,58,Estonia,44586,1,14
+384,79,Finland,44586,1,15
+384,80,France,44586,1,16
+384,81,Germany,44586,1,17
+384,82,Greece,44586,1,18
+384,48,Hungary,44586,1,19
+384,163,India,44586,1,20
+384,11,Indonesia,44586,1,21
+384,84,Ireland,44586,1,22
+384,86,Italy,44586,1,23
+384,67,Japan,44586,1,24
+384,59,Latvia,44586,1,25
+384,60,Lithuania,44586,1,26
+384,87,Luxembourg,44586,1,27
+384,88,Malta,44586,1,28
+384,130,Mexico,44586,1,29
+384,89,Netherlands,44586,1,30
+384,51,Poland,44586,1,31
+384,91,Portugal,44586,1,32
+384,52,Romania,44586,1,33
+384,62,Russian Federation,44586,1,34
+384,152,Saudi Arabia,44586,1,35
+384,54,Slovakia,44586,1,36
+384,55,Slovenia,44586,1,37
+384,196,South Africa,44586,1,38
+384,68,South Korea,44586,1,39
+384,92,Spain,44586,1,40
+384,93,Sweden,44586,1,41
+384,155,Turkey,44586,1,42
+384,95,United Kingdom,44586,1,43
+384,102,United States,44586,1,44
+386,44642,Nordic Region,44642,0,1
+386,78,Denmark,44642,1,2
+386,79,Finland,44642,1,3
+386,349,Greenland,44642,1,4
+386,83,Iceland,44642,1,5
+386,90,Norway,44642,1,6
+386,93,Sweden,44642,1,7
+383,44584,OECD Countries,44584,0,1
+383,71,Australia,44584,1,2
+383,75,Austria,44584,1,3
+383,76,Belgium,44584,1,4
+383,101,Canada,44584,1,5
+383,98,Chile,44584,1,6
+383,47,Czech Republic,44584,1,7
+383,78,Denmark,44584,1,8
+383,58,Estonia,44584,1,9
+383,79,Finland,44584,1,10
+383,80,France,44584,1,11
+383,81,Germany,44584,1,12
+383,82,Greece,44584,1,13
+383,48,Hungary,44584,1,14
+383,83,Iceland,44584,1,15
+383,84,Ireland,44584,1,16
+383,85,Israel,44584,1,17
+383,86,Italy,44584,1,18
+383,67,Japan,44584,1,19
+383,59,Latvia,44584,1,19.5
+383,87,Luxembourg,44584,1,20
+383,130,Mexico,44584,1,21
+383,89,Netherlands,44584,1,22
+383,72,New Zealand,44584,1,23
+383,90,Norway,44584,1,24
+383,51,Poland,44584,1,25
+383,91,Portugal,44584,1,26
+383,54,Slovakia,44584,1,27
+383,55,Slovenia,44584,1,28
+383,68,South Korea,44584,1,29
+383,92,Spain,44584,1,30
+383,93,Sweden,44584,1,31
+383,94,Switzerland,44584,1,32
+383,155,Turkey,44584,1,33
+383,95,United Kingdom,44584,1,34
+383,102,United States,44584,1,35
+377,479,WHO region,479,0,1
+377,44563,African Region,479,1,2
+377,139,Algeria,44563,2,3
+377,168,Angola,44563,2,4
+377,200,Benin,44563,2,5
+377,193,Botswana,44563,2,6
+377,201,Burkina Faso,44563,2,7
+377,175,Burundi,44563,2,8
+377,202,Cameroon,44563,2,9
+377,203,Cape Verde,44563,2,10
+377,169,Central African Republic,44563,2,11
+377,204,Chad,44563,2,12
+377,176,Comoros,44563,2,13
+377,170,Congo,44563,2,14
+377,205,Cote d'Ivoire,44563,2,15
+377,171,Democratic Republic of the Congo,44563,2,16
+377,172,Equatorial Guinea,44563,2,17
+377,178,Eritrea,44563,2,18
+377,179,Ethiopia,44563,2,19
+377,173,Gabon,44563,2,20
+377,207,Ghana,44563,2,21
+377,208,Guinea,44563,2,22
+377,209,Guinea-Bissau,44563,2,23
+377,180,Kenya,44563,2,24
+377,194,Lesotho,44563,2,25
+377,210,Liberia,44563,2,26
+377,181,Madagascar,44563,2,27
+377,182,Malawi,44563,2,28
+377,211,Mali,44563,2,29
+377,212,Mauritania,44563,2,30
+377,183,Mauritius,44563,2,31
+377,184,Mozambique,44563,2,32
+377,195,Namibia,44563,2,33
+377,213,Niger,44563,2,34
+377,214,Nigeria,44563,2,35
+377,185,Rwanda,44563,2,36
+377,215,Sao Tome and Principe,44563,2,37
+377,216,Senegal,44563,2,38
+377,186,Seychelles,44563,2,39
+377,217,Sierra Leone,44563,2,40
+377,196,South Africa,44563,2,41
+377,435,South Sudan,44563,2,42
+377,197,Swaziland,44563,2,43
+377,189,Tanzania,44563,2,44
+377,206,The Gambia,44563,2,45
+377,218,Togo,44563,2,46
+377,190,Uganda,44563,2,47
+377,191,Zambia,44563,2,48
+377,198,Zimbabwe,44563,2,49
+377,44567,Eastern Mediterranean Region,479,1,50
+377,160,Afghanistan,44567,2,51
+377,140,Bahrain,44567,2,52
+377,177,Djibouti,44567,2,53
+377,141,Egypt,44567,2,54
+377,142,Iran,44567,2,55
+377,143,Iraq,44567,2,56
+377,144,Jordan,44567,2,57
+377,145,Kuwait,44567,2,58
+377,146,Lebanon,44567,2,59
+377,147,Libya,44567,2,60
+377,148,Morocco,44567,2,61
+377,150,Oman,44567,2,62
+377,165,Pakistan,44567,2,63
+377,149,Palestine,44567,2,64
+377,151,Qatar,44567,2,65
+377,152,Saudi Arabia,44567,2,66
+377,187,Somalia,44567,2,67
+377,522,Sudan,44567,2,68
+377,153,Syria,44567,2,69
+377,154,Tunisia,44567,2,70
+377,156,United Arab Emirates,44567,2,71
+377,157,Yemen,44567,2,72
+377,44566,European Region,479,1,73
+377,43,Albania,44566,2,74
+377,74,Andorra,44566,2,75
+377,33,Armenia,44566,2,76
+377,75,Austria,44566,2,77
+377,34,Azerbaijan,44566,2,78
+377,57,Belarus,44566,2,79
+377,76,Belgium,44566,2,80
+377,44,Bosnia and Herzegovina,44566,2,81
+377,45,Bulgaria,44566,2,82
+377,46,Croatia,44566,2,83
+377,77,Cyprus,44566,2,84
+377,47,Czech Republic,44566,2,85
+377,78,Denmark,44566,2,86
+377,58,Estonia,44566,2,87
+377,79,Finland,44566,2,88
+377,80,France,44566,2,89
+377,35,Georgia,44566,2,90
+377,81,Germany,44566,2,91
+377,82,Greece,44566,2,92
+377,48,Hungary,44566,2,93
+377,83,Iceland,44566,2,94
+377,84,Ireland,44566,2,95
+377,85,Israel,44566,2,96
+377,86,Italy,44566,2,97
+377,36,Kazakhstan,44566,2,98
+377,37,Kyrgyzstan,44566,2,99
+377,59,Latvia,44566,2,100
+377,60,Lithuania,44566,2,101
+377,87,Luxembourg,44566,2,102
+377,49,Macedonia,44566,2,103
+377,88,Malta,44566,2,104
+377,61,Moldova,44566,2,105
+377,50,Montenegro,44566,2,106
+377,89,Netherlands,44566,2,107
+377,90,Norway,44566,2,108
+377,51,Poland,44566,2,109
+377,91,Portugal,44566,2,110
+377,52,Romania,44566,2,111
+377,62,Russian Federation,44566,2,112
+377,53,Serbia,44566,2,113
+377,54,Slovakia,44566,2,114
+377,55,Slovenia,44566,2,115
+377,92,Spain,44566,2,116
+377,93,Sweden,44566,2,117
+377,94,Switzerland,44566,2,118
+377,39,Tajikistan,44566,2,119
+377,155,Turkey,44566,2,120
+377,40,Turkmenistan,44566,2,121
+377,63,Ukraine,44566,2,122
+377,95,United Kingdom,44566,2,123
+377,41,Uzbekistan,44566,2,124
+377,44564,Region of the Americas,479,1,125
+377,105,Antigua and Barbuda,44564,2,126
+377,97,Argentina,44564,2,127
+377,107,Barbados,44564,2,128
+377,108,Belize,44564,2,129
+377,305,Bermuda,44564,2,130
+377,121,Bolivia,44564,2,131
+377,135,Brazil,44564,2,132
+377,101,Canada,44564,2,133
+377,98,Chile,44564,2,134
+377,125,Colombia,44564,2,135
+377,126,Costa Rica,44564,2,136
+377,109,Cuba,44564,2,137
+377,110,Dominica,44564,2,138
+377,111,Dominican Republic,44564,2,139
+377,122,Ecuador,44564,2,140
+377,127,El Salvador,44564,2,141
+377,112,Grenada,44564,2,142
+377,128,Guatemala,44564,2,143
+377,113,Guyana,44564,2,144
+377,114,Haiti,44564,2,145
+377,129,Honduras,44564,2,146
+377,115,Jamaica,44564,2,147
+377,130,Mexico,44564,2,148
+377,131,Nicaragua,44564,2,149
+377,132,Panama,44564,2,150
+377,136,Paraguay,44564,2,151
+377,123,Peru,44564,2,152
+377,116,Saint Lucia,44564,2,153
+377,117,Saint Vincent and the Grenadines,44564,2,154
+377,118,Suriname,44564,2,155
+377,106,The Bahamas,44564,2,156
+377,119,Trinidad and Tobago,44564,2,157
+377,102,United States,44564,2,158
+377,99,Uruguay,44564,2,159
+377,133,Venezuela,44564,2,160
+377,44565,South-East Asia Region,479,1,161
+377,161,Bangladesh,44565,2,162
+377,162,Bhutan,44565,2,163
+377,163,India,44565,2,164
+377,11,Indonesia,44565,2,165
+377,14,Maldives,44565,2,166
+377,15,Myanmar,44565,2,167
+377,164,Nepal,44565,2,168
+377,7,North Korea,44565,2,169
+377,17,Sri Lanka,44565,2,170
+377,18,Thailand,44565,2,171
+377,19,Timor-Leste,44565,2,172
+377,44568,Western Pacific Region,479,1,173
+377,298,American Samoa,44568,2,173.5
+377,71,Australia,44568,2,174
+377,66,Brunei,44568,2,175
+377,10,Cambodia,44568,2,176
+377,6,China,44568,2,177
+377,25,Federated States of Micronesia,44568,2,178
+377,22,Fiji,44568,2,179
+377,351,Guam,44568,2,179.5
+377,67,Japan,44568,2,180
+377,23,Kiribati,44568,2,181
+377,12,Laos,44568,2,182
+377,13,Malaysia,44568,2,183
+377,24,Marshall Islands,44568,2,184
+377,38,Mongolia,44568,2,185
+377,72,New Zealand,44568,2,186
+377,376,Northern Mariana Islands,44568,2,186.5
+377,26,Papua New Guinea,44568,2,187
+377,16,Philippines,44568,2,188
+377,27,Samoa,44568,2,189
+377,69,Singapore,44568,2,190
+377,28,Solomon Islands,44568,2,191
+377,68,South Korea,44568,2,192
+377,29,Tonga,44568,2,193
+377,30,Vanuatu,44568,2,194
+377,20,Vietnam,44568,2,195
+382,44591,World Bank Income Levels,44591,0,1
+382,44575,World Bank High Income,44591,1,2
+382,74,Andorra,44575,2,3
+382,105,Antigua and Barbuda,44575,2,4
+382,71,Australia,44575,2,6
+382,75,Austria,44575,2,7
+382,140,Bahrain,44575,2,8
+382,107,Barbados,44575,2,9
+382,76,Belgium,44575,2,10
+382,305,Bermuda,44575,2,11
+382,66,Brunei,44575,2,12
+382,101,Canada,44575,2,13
+382,98,Chile,44575,2,14
+382,77,Cyprus,44575,2,16
+382,47,Czech Republic,44575,2,17
+382,78,Denmark,44575,2,18
+382,58,Estonia,44575,2,19
+382,79,Finland,44575,2,20
+382,80,France,44575,2,21
+382,81,Germany,44575,2,22
+382,82,Greece,44575,2,23
+382,349,Greenland,44575,2,24
+382,351,Guam,44575,2,25
+382,48,Hungary,44575,2,26
+382,83,Iceland,44575,2,27
+382,84,Ireland,44575,2,28
+382,85,Israel,44575,2,29
+382,86,Italy,44575,2,30
+382,67,Japan,44575,2,31
+382,145,Kuwait,44575,2,32
+382,59,Latvia,44575,2,33
+382,60,Lithuania,44575,2,34
+382,87,Luxembourg,44575,2,35
+382,88,Malta,44575,2,36
+382,89,Netherlands,44575,2,37
+382,72,New Zealand,44575,2,38
+382,376,Northern Mariana Islands,44575,2,39
+382,90,Norway,44575,2,40
+382,150,Oman,44575,2,41
+382,51,Poland,44575,2,42
+382,91,Portugal,44575,2,43
+382,385,Puerto Rico,44575,2,44
+382,151,Qatar,44575,2,45
+382,152,Saudi Arabia,44575,2,46
+382,186,Seychelles,44575,2,47
+382,69,Singapore,44575,2,48
+382,54,Slovakia,44575,2,49
+382,55,Slovenia,44575,2,50
+382,68,South Korea,44575,2,51
+382,92,Spain,44575,2,52
+382,93,Sweden,44575,2,53
+382,94,Switzerland,44575,2,54
+382,8,Taiwan,44575,2,55
+382,106,The Bahamas,44575,2,56
+382,119,Trinidad and Tobago,44575,2,57
+382,156,United Arab Emirates,44575,2,58
+382,95,United Kingdom,44575,2,59
+382,102,United States,44575,2,60
+382,99,Uruguay,44575,2,61
+382,422,"Virgin Islands, U.S.",44575,2,62
+382,44578,World Bank Low Income,44591,1,63
+382,160,Afghanistan,44578,2,64
+382,200,Benin,44578,2,65
+382,201,Burkina Faso,44578,2,66
+382,175,Burundi,44578,2,67
+382,169,Central African Republic,44578,2,68
+382,204,Chad,44578,2,69
+382,176,Comoros,44578,2,70
+382,171,Democratic Republic of the Congo,44578,2,71
+382,178,Eritrea,44578,2,72
+382,179,Ethiopia,44578,2,73
+382,208,Guinea,44578,2,74
+382,209,Guinea-Bissau,44578,2,75
+382,114,Haiti,44578,2,76
+382,210,Liberia,44578,2,77
+382,181,Madagascar,44578,2,78
+382,182,Malawi,44578,2,79
+382,211,Mali,44578,2,80
+382,184,Mozambique,44578,2,81
+382,164,Nepal,44578,2,82
+382,213,Niger,44578,2,83
+382,7,North Korea,44578,2,84
+382,185,Rwanda,44578,2,85
+382,216,Senegal,44578,2,86
+382,217,Sierra Leone,44578,2,87
+382,187,Somalia,44578,2,88
+382,435,South Sudan,44578,2,89
+382,189,Tanzania,44578,2,90
+382,206,The Gambia,44578,2,91
+382,218,Togo,44578,2,92
+382,190,Uganda,44578,2,93
+382,198,Zimbabwe,44578,2,94
+382,44577,World Bank Lower Middle Income,44591,1,95
+382,168,Angola,44577,2,95.5
+382,33,Armenia,44577,2,96
+382,161,Bangladesh,44577,2,97
+382,162,Bhutan,44577,2,98
+382,121,Bolivia,44577,2,99
+382,10,Cambodia,44577,2,100
+382,202,Cameroon,44577,2,101
+382,203,Cape Verde,44577,2,102
+382,170,Congo,44577,2,103
+382,205,Cote d'Ivoire,44577,2,104
+382,177,Djibouti,44577,2,105
+382,141,Egypt,44577,2,106
+382,127,El Salvador,44577,2,107
+382,25,Federated States of Micronesia,44577,2,108
+382,35,Georgia,44577,2,108.5
+382,207,Ghana,44577,2,109
+382,128,Guatemala,44577,2,110
+382,129,Honduras,44577,2,111
+382,163,India,44577,2,112
+382,11,Indonesia,44577,2,113
+382,144,Jordan,44577,2,113.5
+382,180,Kenya,44577,2,114
+382,23,Kiribati,44577,2,115
+382,37,Kyrgyzstan,44577,2,116
+382,12,Laos,44577,2,117
+382,194,Lesotho,44577,2,118
+382,212,Mauritania,44577,2,119
+382,61,Moldova,44577,2,120
+382,38,Mongolia,44577,2,121
+382,148,Morocco,44577,2,122
+382,15,Myanmar,44577,2,123
+382,131,Nicaragua,44577,2,124
+382,214,Nigeria,44577,2,125
+382,165,Pakistan,44577,2,126
+382,149,Palestine,44577,2,127
+382,26,Papua New Guinea,44577,2,128
+382,16,Philippines,44577,2,129
+382,215,Sao Tome and Principe,44577,2,131
+382,28,Solomon Islands,44577,2,132
+382,17,Sri Lanka,44577,2,133
+382,522,Sudan,44577,2,134
+382,197,Swaziland,44577,2,135
+382,153,Syria,44577,2,136
+382,39,Tajikistan,44577,2,137
+382,19,Timor-Leste,44577,2,138
+382,154,Tunisia,44577,2,140
+382,63,Ukraine,44577,2,141
+382,41,Uzbekistan,44577,2,142
+382,30,Vanuatu,44577,2,143
+382,20,Vietnam,44577,2,144
+382,157,Yemen,44577,2,145
+382,191,Zambia,44577,2,146
+382,44576,World Bank Upper Middle Income,44591,1,147
+382,43,Albania,44576,2,148
+382,139,Algeria,44576,2,149
+382,298,American Samoa,44576,2,150
+382,97,Argentina,44576,2,151
+382,34,Azerbaijan,44576,2,152
+382,57,Belarus,44576,2,153
+382,108,Belize,44576,2,154
+382,44,Bosnia and Herzegovina,44576,2,155
+382,193,Botswana,44576,2,156
+382,135,Brazil,44576,2,157
+382,45,Bulgaria,44576,2,158
+382,6,China,44576,2,159
+382,125,Colombia,44576,2,160
+382,126,Costa Rica,44576,2,161
+382,46,Croatia,44576,2,161.5
+382,109,Cuba,44576,2,162
+382,110,Dominica,44576,2,163
+382,111,Dominican Republic,44576,2,164
+382,122,Ecuador,44576,2,165
+382,172,Equatorial Guinea,44576,2,166
+382,22,Fiji,44576,2,167
+382,173,Gabon,44576,2,168
+382,112,Grenada,44576,2,170
+382,113,Guyana,44576,2,171
+382,142,Iran,44576,2,172
+382,143,Iraq,44576,2,173
+382,115,Jamaica,44576,2,174
+382,36,Kazakhstan,44576,2,176
+382,146,Lebanon,44576,2,177
+382,147,Libya,44576,2,178
+382,49,Macedonia,44576,2,179
+382,13,Malaysia,44576,2,180
+382,14,Maldives,44576,2,181
+382,24,Marshall Islands,44576,2,182
+382,183,Mauritius,44576,2,183
+382,130,Mexico,44576,2,184
+382,50,Montenegro,44576,2,185
+382,195,Namibia,44576,2,186
+382,132,Panama,44576,2,187
+382,136,Paraguay,44576,2,188
+382,123,Peru,44576,2,189
+382,52,Romania,44576,2,190
+382,62,Russian Federation,44576,2,191
+382,116,Saint Lucia,44576,2,192
+382,117,Saint Vincent and the Grenadines,44576,2,193
+382,27,Samoa,44576,2,193.5
+382,53,Serbia,44576,2,194
+382,196,South Africa,44576,2,195
+382,118,Suriname,44576,2,196
+382,18,Thailand,44576,2,197
+382,29,Tonga,44576,2,197.5
+382,155,Turkey,44576,2,198
+382,40,Turkmenistan,44576,2,199
+382,133,Venezuela,44576,2,200
+378,478,World Bank Regions,478,0,1
+378,239,East Asia & Pacific - WB,478,1,2
+378,298,American Samoa,239,2,3
+378,71,Australia,239,2,4
+378,66,Brunei,239,2,5
+378,10,Cambodia,239,2,6
+378,6,China,239,2,7
+378,25,Federated States of Micronesia,239,2,8
+378,22,Fiji,239,2,9
+378,351,Guam,239,2,10
+378,11,Indonesia,239,2,12
+378,67,Japan,239,2,13
+378,23,Kiribati,239,2,14
+378,12,Laos,239,2,15
+378,13,Malaysia,239,2,17
+378,24,Marshall Islands,239,2,18
+378,38,Mongolia,239,2,19
+378,15,Myanmar,239,2,20
+378,72,New Zealand,239,2,21
+378,7,North Korea,239,2,22
+378,376,Northern Mariana Islands,239,2,23
+378,26,Papua New Guinea,239,2,24
+378,16,Philippines,239,2,25
+378,27,Samoa,239,2,26
+378,69,Singapore,239,2,27
+378,28,Solomon Islands,239,2,28
+378,68,South Korea,239,2,29
+378,8,Taiwan,239,2,30
+378,18,Thailand,239,2,31
+378,19,Timor-Leste,239,2,32
+378,29,Tonga,239,2,33
+378,30,Vanuatu,239,2,34
+378,20,Vietnam,239,2,35
+378,240,Europe & Central Asia - WB,478,1,36
+378,43,Albania,240,2,37
+378,74,Andorra,240,2,38
+378,33,Armenia,240,2,39
+378,75,Austria,240,2,40
+378,34,Azerbaijan,240,2,41
+378,57,Belarus,240,2,42
+378,76,Belgium,240,2,43
+378,44,Bosnia and Herzegovina,240,2,44
+378,45,Bulgaria,240,2,45
+378,46,Croatia,240,2,46
+378,77,Cyprus,240,2,47
+378,47,Czech Republic,240,2,48
+378,78,Denmark,240,2,49
+378,58,Estonia,240,2,50
+378,79,Finland,240,2,51
+378,80,France,240,2,52
+378,35,Georgia,240,2,53
+378,81,Germany,240,2,54
+378,82,Greece,240,2,55
+378,349,Greenland,240,2,55.5
+378,48,Hungary,240,2,56
+378,83,Iceland,240,2,57
+378,84,Ireland,240,2,58
+378,86,Italy,240,2,59
+378,36,Kazakhstan,240,2,60
+378,37,Kyrgyzstan,240,2,61
+378,59,Latvia,240,2,62
+378,60,Lithuania,240,2,63
+378,87,Luxembourg,240,2,64
+378,49,Macedonia,240,2,65
+378,61,Moldova,240,2,66
+378,50,Montenegro,240,2,67
+378,89,Netherlands,240,2,68
+378,90,Norway,240,2,69
+378,51,Poland,240,2,70
+378,91,Portugal,240,2,71
+378,52,Romania,240,2,72
+378,62,Russian Federation,240,2,73
+378,53,Serbia,240,2,74
+378,54,Slovakia,240,2,75
+378,55,Slovenia,240,2,76
+378,92,Spain,240,2,77
+378,93,Sweden,240,2,78
+378,94,Switzerland,240,2,79
+378,39,Tajikistan,240,2,80
+378,155,Turkey,240,2,81
+378,40,Turkmenistan,240,2,82
+378,63,Ukraine,240,2,83
+378,95,United Kingdom,240,2,84
+378,41,Uzbekistan,240,2,85
+378,241,Latin America & Caribbean - WB,478,1,86
+378,105,Antigua and Barbuda,241,2,87
+378,97,Argentina,241,2,88
+378,107,Barbados,241,2,89
+378,108,Belize,241,2,90
+378,121,Bolivia,241,2,91
+378,135,Brazil,241,2,92
+378,98,Chile,241,2,93
+378,125,Colombia,241,2,94
+378,126,Costa Rica,241,2,95
+378,109,Cuba,241,2,96
+378,110,Dominica,241,2,97
+378,111,Dominican Republic,241,2,98
+378,122,Ecuador,241,2,99
+378,127,El Salvador,241,2,100
+378,112,Grenada,241,2,101
+378,128,Guatemala,241,2,102
+378,113,Guyana,241,2,103
+378,114,Haiti,241,2,104
+378,129,Honduras,241,2,105
+378,115,Jamaica,241,2,106
+378,130,Mexico,241,2,107
+378,131,Nicaragua,241,2,108
+378,132,Panama,241,2,109
+378,136,Paraguay,241,2,110
+378,123,Peru,241,2,111
+378,385,Puerto Rico,241,2,112
+378,116,Saint Lucia,241,2,113
+378,117,Saint Vincent and the Grenadines,241,2,114
+378,118,Suriname,241,2,115
+378,106,The Bahamas,241,2,116
+378,119,Trinidad and Tobago,241,2,117
+378,99,Uruguay,241,2,118
+378,133,Venezuela,241,2,119
+378,422,"Virgin Islands, U.S.",241,2,120
+378,243,Middle East & North Africa - WB,478,1,121
+378,139,Algeria,243,2,122
+378,140,Bahrain,243,2,123
+378,177,Djibouti,243,2,124
+378,141,Egypt,243,2,125
+378,142,Iran,243,2,126
+378,143,Iraq,243,2,127
+378,85,Israel,243,2,128
+378,144,Jordan,243,2,129
+378,145,Kuwait,243,2,130
+378,146,Lebanon,243,2,131
+378,147,Libya,243,2,132
+378,88,Malta,243,2,133
+378,148,Morocco,243,2,134
+378,150,Oman,243,2,135
+378,149,Palestine,243,2,136
+378,151,Qatar,243,2,137
+378,152,Saudi Arabia,243,2,138
+378,153,Syria,243,2,139
+378,154,Tunisia,243,2,140
+378,156,United Arab Emirates,243,2,141
+378,157,Yemen,243,2,142
+378,44638,North America,478,1,143
+378,305,Bermuda,44638,2,144
+378,101,Canada,44638,2,145
+378,102,United States,44638,2,146
+378,244,South Asia - WB,478,1,147
+378,160,Afghanistan,244,2,148
+378,161,Bangladesh,244,2,149
+378,162,Bhutan,244,2,150
+378,163,India,244,2,151
+378,14,Maldives,244,2,152
+378,164,Nepal,244,2,153
+378,165,Pakistan,244,2,154
+378,17,Sri Lanka,244,2,155
+378,242,Sub-Saharan Africa - WB,478,1,156
+378,168,Angola,242,2,157
+378,200,Benin,242,2,158
+378,193,Botswana,242,2,159
+378,201,Burkina Faso,242,2,160
+378,175,Burundi,242,2,161
+378,202,Cameroon,242,2,162
+378,203,Cape Verde,242,2,163
+378,169,Central African Republic,242,2,164
+378,204,Chad,242,2,165
+378,176,Comoros,242,2,166
+378,170,Congo,242,2,167
+378,205,Cote d'Ivoire,242,2,168
+378,171,Democratic Republic of the Congo,242,2,169
+378,172,Equatorial Guinea,242,2,170
+378,178,Eritrea,242,2,171
+378,179,Ethiopia,242,2,172
+378,173,Gabon,242,2,173
+378,207,Ghana,242,2,174
+378,208,Guinea,242,2,175
+378,209,Guinea-Bissau,242,2,176
+378,180,Kenya,242,2,177
+378,194,Lesotho,242,2,178
+378,210,Liberia,242,2,179
+378,181,Madagascar,242,2,180
+378,182,Malawi,242,2,181
+378,211,Mali,242,2,182
+378,212,Mauritania,242,2,183
+378,183,Mauritius,242,2,184
+378,184,Mozambique,242,2,185
+378,195,Namibia,242,2,186
+378,213,Niger,242,2,187
+378,214,Nigeria,242,2,188
+378,185,Rwanda,242,2,189
+378,215,Sao Tome and Principe,242,2,190
+378,216,Senegal,242,2,191
+378,186,Seychelles,242,2,192
+378,217,Sierra Leone,242,2,193
+378,187,Somalia,242,2,194
+378,196,South Africa,242,2,195
+378,435,South Sudan,242,2,196
+378,522,Sudan,242,2,197
+378,197,Swaziland,242,2,198
+378,189,Tanzania,242,2,199
+378,206,The Gambia,242,2,200
+378,218,Togo,242,2,201
+378,190,Uganda,242,2,202
+378,191,Zambia,242,2,203
+378,198,Zimbabwe,242,2,204

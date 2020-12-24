@@ -1,0 +1,7 @@
+location_set_version_id,location_id,location_name,parent_id,level,sort_order
+423,1,Global,1,0,1
+382,44575,World Bank High Income,44591,1,2
+382,44578,World Bank Low Income,44591,1,63
+382,44577,World Bank Lower Middle Income,44591,1,95
+382,44576,World Bank Upper Middle Income,44591,1,147
+379,4743,European Union,4743,0,1

@@ -1,0 +1,74 @@
+  |                                                                                                                                                                                               |                                                                                                                                                                                       |   0%  |                                                                                                                                                                                               |..................                                                                                                                                                                     |  10%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |.....................................                                                                                                                                                  |  20%
+label: initialisation
+  |                                                                                                                                                                                               |.......................................................                                                                                                                                |  30%
+label: calculations
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  cause_id = col_double(),
+  cause_name = col_character()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  measure_id = col_double(),
+  measure_name = col_character(),
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex_name = col_character(),
+  age_id = col_double(),
+  age_name = col_character(),
+  cause_id = col_double(),
+  cause_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  year = col_double(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  measure_id = col_double(),
+  measure_name = col_character(),
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex_name = col_character(),
+  age_id = col_double(),
+  age_name = col_character(),
+  cause_id = col_double(),
+  cause_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  year = col_double(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+  |                                                                                                                                                                                               |.........................................................................                                                                                                              |  40%
+label: causes_with_age_graphs
+  |                                                                                                                                                                                               |............................................................................................                                                                                           |  50%
+label: summary_text
+  |                                                                                                                                                                                               |..............................................................................................................                                                                         |  60%
+   inline R code fragments
+
+  |                                                                                                                                                                                               |................................................................................................................................                                                       |  70%
+label: unnamed-chunk-1
+  |                                                                                                                                                                                               |..................................................................................................................................................                                     |  80%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |.....................................................................................................................................................................                  |  90%
+label: unnamed-chunk-2
+  |                                                                                                                                                                                               |.......................................................................................................................................................................................| 100%
+  ordinary text without R code
+
+

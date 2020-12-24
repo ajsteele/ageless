@@ -1,0 +1,75 @@
+  |                                                                                                                                                                                               |                                                                                                                                                                                       |   0%  |                                                                                                                                                                                               |..................                                                                                                                                                                     |  10%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |.....................................                                                                                                                                                  |  20%
+label: initialisation
+  |                                                                                                                                                                                               |.......................................................                                                                                                                                |  30%
+label: calculations
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_set_version_id = col_double(),
+  location_id = col_double(),
+  location_name = col_character(),
+  parent_id = col_double(),
+  level = col_double(),
+  sort_order = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_set_version_id = col_double(),
+  location_id = col_double(),
+  location_name = col_character(),
+  parent_id = col_double(),
+  level = col_double(),
+  sort_order = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  measure_id = col_double(),
+  measure_name = col_character(),
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex_name = col_character(),
+  age_id = col_double(),
+  age_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  year = col_double(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+  |                                                                                                                                                                                               |.........................................................................                                                                                                              |  40%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |............................................................................................                                                                                           |  50%
+label: le_sex_difference_graphs (with options) 
+List of 2
+ $ fig.width : language 800/300
+ $ fig.height: language 800/300
+
+  |                                                                                                                                                                                               |..............................................................................................................                                                                         |  60%
+   inline R code fragments
+
+  |                                                                                                                                                                                               |................................................................................................................................                                                       |  70%
+label: unnamed-chunk-1
+  |                                                                                                                                                                                               |..................................................................................................................................................                                     |  80%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |.....................................................................................................................................................................                  |  90%
+label: unnamed-chunk-2 (with options) 
+List of 2
+ $ fig.width : language 800/300
+ $ fig.height: language 800/300
+
+  |                                                                                                                                                                                               |.......................................................................................................................................................................................| 100%
+  ordinary text without R code
+
+

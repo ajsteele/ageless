@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<title>Difference between female and male life expectancy</title>
+
+<script type="text/javascript">
+window.onload = function() {
+  var imgs = document.getElementsByTagName('img'), i, img;
+  for (i = 0; i < imgs.length; i++) {
+    img = imgs[i];
+    // center an image if it is the only element of its parent
+    if (img.parentElement.childElementCount === 1)
+      img.parentElement.style.textAlign = 'center';
+  }
+};
+</script>
+
+
+
+
+
+<style type="text/css">
+body, td {
+   font-family: sans-serif;
+   background-color: white;
+   font-size: 13px;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 20px;
+}
+
+tt, code, pre {
+   font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+}
+
+h1 {
+   font-size:2.2em;
+}
+
+h2 {
+   font-size:1.8em;
+}
+
+h3 {
+   font-size:1.4em;
+}
+
+h4 {
+   font-size:1.0em;
+}
+
+h5 {
+   font-size:0.9em;
+}
+
+h6 {
+   font-size:0.8em;
+}
+
+a:visited {
+   color: rgb(50%, 0%, 50%);
+}
+
+pre, img {
+  max-width: 100%;
+}
+pre {
+  overflow-x: auto;
+}
+pre code {
+   display: block; padding: 0.5em;
+}
+
+code {
+  font-size: 92%;
+  border: 1px solid #ccc;
+}
+
+code[class] {
+  background-color: #F8F8F8;
+}
+
+table, td, th {
+  border: none;
+}
+
+blockquote {
+   color:#666666;
+   margin:0;
+   padding-left: 1em;
+   border-left: 0.5em #EEE solid;
+}
+
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-width: thin;
+   border-top-style: dotted;
+   border-top-color: #999999;
+}
+
+@media print {
+   * {
+      background: transparent !important;
+      color: black !important;
+      filter:none !important;
+      -ms-filter: none !important;
+   }
+
+   body {
+      font-size:12pt;
+      max-width:100%;
+   }
+
+   a, a:visited {
+      text-decoration: underline;
+   }
+
+   hr {
+      visibility: hidden;
+      page-break-before: always;
+   }
+
+   pre, blockquote {
+      padding-right: 1em;
+      page-break-inside: avoid;
+   }
+
+   tr, img {
+      page-break-inside: avoid;
+   }
+
+   img {
+      max-width: 100% !important;
+   }
+
+   @page :left {
+      margin: 15mm 20mm 15mm 10mm;
+   }
+
+   @page :right {
+      margin: 15mm 10mm 15mm 20mm;
+   }
+
+   p, h2, h3 {
+      orphans: 3; widows: 3;
+   }
+
+   h2, h3 {
+      page-break-after: avoid;
+   }
+}
+</style>
+
+
+
+</head>
+
+<body>
+<h1>Difference between female and male life expectancy</h1>
+
+<p>How does life expectancy differ between the sexes? This report uses
+<a href="http://www.healthdata.org/gbd">WHO Global Burden of Disease (GBD)</a> data to
+work it out.</p>
+
+<p>You can download the exact dataset used for this script
+<a href="http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2017-permalink/665d025a2594db660eda5ba8360dbcb5">here</a>.</p>
+
+<h2>Life expectancy of women vs men in differerent countries</h2>
+
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAgVBMVEUAAAAiIiIiIk4iInUiTk4iTnUiTpoidb1OIiJOTiJOTnVOTppOdb1Omr1Omt51IiJ1TiJ1Tk51vd51vf+aTiKadU6avXWavd6a3t6a3v+9dSK9dU69mk69mnW93v+9///Ly8vemk7evXXevZre////vXX/3pr/3r3//73//97///8D/RNlAAAACXBIWXMAAAsSAAALEgHS3X78AAAHVklEQVR4nO1caWPcJhCV7Nbetqmdpu61aZNs6pP//wOrg2O4xCCGQUr1PtjoYt6TBhg0izqxc3StCZTiENAah4DWOAS0xiGgNfYloPPp7kZAJ+Htb0FmBbpvRYB/oAGZVQiyFzsSEMM+BIRv/nyIkUYeAGnjPjtqxMDnTfMNNIStCxj+gB50TwKE5A+xKxeaMdHWTyF4BjelTEjWexUAG29EwaYFSNawEfjnsLPKQOcgeA43qSwk6W9YgNuLRs9j5ISEph4X0AWLG4HTbkMCukh5G/C5uwKiYjYC+QCiLTjqTe2hAoe5HXSgMcCTxNJmU5jbbe670aROci9ipbiMkOO7LrTtaNR1/XmfNbfxr+EkmILx+k41A7lfnRC4BpSf3/f995/G0stQ+vFTXbYBLvqmg4J1QugiU3w+9QOu/hLi9X4sXX+uSDYEzdduyyGuIrTz3H8Qb3/3d0Jc+p8f51JVuP1jt6wg7O1QwM3jePNvxdvDWJr/VoQ7PsGGq8vmpHQ0ehmewPDnbhIx4FzZh5wR1un73QYc623A/rePo+e/GxvD5DyXsTkM+FILE9/xH9gc98y7nXPtzaCAsevp+8FvHAH1oP1cb7njVoBm9Mjbw9UfQnw93fIJUCFPaAiOsPSr0CVJe/D813tVoqdsDHdmxEoJWBptPQHDfefohQDVCP+F+MeqSJde72cXGmifx3HgY9VxYJG//Rp0OdoBR5/6Cb/yjMTgTkPWwhOQiNbg4X/HWGhquC86KqqHUO8DD+D4t4xG5UxFUofOn4p/rFoqMgzaUxzlP3Pz4SPIoMcsALRbEWi/K9i1FmBNhNeQ4xJgZ+kCD2AtNyYBkKLX+USyqDhq/AJ8/xfe3CaDGbcLBQQI+wFlEmswDoDePtj15/FqNpB1jgLbi/C0GAWEZsDm1ueNv6AiGnIYSxZDrwe1+qmcaskIJi0Zb9EtwJvJ53NidyG36/cV5FFib8TewOsKyGTEH40awmDPXFhDiG0kVv+V/9iF9Xx4BFh9jT0S291rPh1mAdZrW38AXsGmhQsZ7uX8m0xofM8v4NKiF5IFGipsAkDTJWXCNx9Qnk/Lv4EAuUnFg92FZJmg/ym9cj3caKiIBasAOARTkTDXzmniOVFMluj2ZmHW7V8VP7sWdAkIIHu9bk2zDOyjZU7gXv1Emuh22Jo4AhwtdGLn8tf7m0fKRHfwAVidaWkjdK4/zz+VoEt0wycQ8KLyTsSu4Pl0K0gT3SNXP4tt8theQhuJmIDpARDmiaG3qDtfNn/xTcAN6TtkAqwes1OjccT4Whtw42lMUY46iBLdpstRN3/l+8MlG3BDUqbrhcDUi2D+HjYBypoyZaJbjVbgzYlvuaR+UJZNgDjRHZkAUAVhsB7ZeAVZojs6eyEMImtGo6bfBMMZtdn6AuzYYd37wyUjdFXpKmH8I0ICKI3SC7DDfZUGEGYXrc2KAmDcVqH/rFKbuulW7CmciQ2xRdradMdjFKjdVQzWEWBeYPlvUchdltyF9COQ28KeWNKao6jRf8fmU3feQpCieEoaCRfqhZ+uodLrUwLoTEUIFFfQuRum5zcTGgpLEfuklemuH3Q/9OGPbZO0Moh5R43wx7ZJWxsYB8w+cjOWSfIK7eitkpWqVXsdU43u31ReocrOfgSxnpbIWo067WTY/gQIMHfs/AZBbKlStVBAVZSHEpHdsXwqNQrrd6fr4ABF9RgGhZd3MGgQ7h2vz5/IhdyZGFHlKAIklUD+YACgqDtpG5Rffuv77z5Mpbw8sedIXtX1AKzM76RXLcOCTbly/O+ZNsVz/+5RPI951uw8MaDdsfU/wrEzpYgn5Gdo4HsHXv7AkEyQiVV5Yne8YuMPBVz9+c9pasTleeK16V80QgIuVz9MjfhuIc2KDAz47r8lYEoqfT1df44KQIZmnPwtF5r4DrSjeWKcAFb+1u+Fpka8uCB6e/yBObWmvnBBNDN/aE/+ZKtsQTQ3fzsW+qV4QTQ7/20nrNhNNuC/8ZQtr9Em/HfyowUOs434V/nZDiuIDDfjX+GHa8ygea1CUUlD2y35440z/PxtFbDW43OZtvzLBTTmX+xCrfkTr59ogDIG7fmXUdgA/yIOW+BfQmIT/DfCogCHgNY4BLTGIaA1DgGtgRJwlsmzZAofmevHLx5Pf00dI+DtQQlIJA6wuX704nHE19QxAmTySSSXeufl+hGLxxFfU8cIeFLpykQKPy/Xj1k8jviaOkbA5fr305S6SaTw83L9mMXjiK+pYwSc1deEEwuNo7n+EIKLx13EvqaeJ0CmL/ubx4Q5TK5fA7V4HPE1dfw4MFhMCUjn+jVQi8cxX1PHC1hK4c9A5PrNuZjF45ivqSMEmGoSfQYm16+AWjyO+Zo6rg1MvfFtaql3Rq4ft3gc8zV11DjQJ8fDGfhcP3LxOOJr6qg2MEYkP+mIZCGFj871YxePp7+m/v+IRreMQ0BrHAJa4xDQGoeA1jgEtMYhoDUOAa1xCGiN3Qv4DygB9gykJEc6AAAAAElFTkSuQmCC" alt="plot of chunk le_sex_difference_graphs"/></p>
+
+<p>This graph shows that female life expectancy exceeds male in almost every
+country in the world. The diagonal line is where the points would lie were
+female and male LE equal in that country. Only in
+Afghanistan is
+male life expectancy greater than female.</p>
+
+<p>This table shows the differences in life expectancies in selected regions:</p>
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:right;"> location_id </th>
+   <th style="text-align:left;"> Location </th>
+   <th style="text-align:right;"> Female LE - Male LE </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Global </td>
+   <td style="text-align:right;"> 5.1114614 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> China </td>
+   <td style="text-align:right;"> 5.3973055 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 80 </td>
+   <td style="text-align:left;"> France </td>
+   <td style="text-align:right;"> 5.9028646 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 81 </td>
+   <td style="text-align:left;"> Germany </td>
+   <td style="text-align:right;"> 4.7725092 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 86 </td>
+   <td style="text-align:left;"> Italy </td>
+   <td style="text-align:right;"> 4.4653957 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 95 </td>
+   <td style="text-align:left;"> United Kingdom </td>
+   <td style="text-align:right;"> 3.5423138 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 102 </td>
+   <td style="text-align:left;"> United States </td>
+   <td style="text-align:right;"> 4.9938900 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 135 </td>
+   <td style="text-align:left;"> Brazil </td>
+   <td style="text-align:right;"> 7.0818672 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 160 </td>
+   <td style="text-align:left;"> Afghanistan </td>
+   <td style="text-align:right;"> -0.3642782 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 163 </td>
+   <td style="text-align:left;"> India </td>
+   <td style="text-align:right;"> 2.3747281 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 170 </td>
+   <td style="text-align:left;"> Congo </td>
+   <td style="text-align:right;"> 0.1691801 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 212 </td>
+   <td style="text-align:left;"> Mauritania </td>
+   <td style="text-align:right;"> 0.9057453 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 214 </td>
+   <td style="text-align:left;"> Nigeria </td>
+   <td style="text-align:right;"> 3.0621790 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 44575 </td>
+   <td style="text-align:left;"> World Bank High Income </td>
+   <td style="text-align:right;"> 5.3019570 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 44578 </td>
+   <td style="text-align:left;"> World Bank Low Income </td>
+   <td style="text-align:right;"> 4.3547102 </td>
+  </tr>
+</tbody>
+</table>
+
+<h2>Sex difference in life expectancy vs overall life expectancy</h2>
+
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAhFBMVEUAAAAiIiIiIk4iInUiTk4iTnUiTpoidb1OIiJOTiJOTnVOdb1Omr1Omt51IiJ1TiJ1Tk51vZp1vb11vd51vf+aTiKadU6adb2avd6a3t6a3v+9dSK9dU69mk69mnW93v+9///Ly8vemk7evXXevZre////vXX/3pr/3r3//73//97///8m+kI+AAAACXBIWXMAAAsSAAALEgHS3X78AAAH3UlEQVR4nO1dbZ/bJgy3061L1126rbs9NN3W5nrJ5fz9v9/iR4QkEBhh4v2sF3cxCKG/kYTADqmalVNVWoFU2gCUpv8TgOMP3b9v7+r6+38LqRNPBsCp7gCc65Z2n4ppFEkjgNfPdQfg9XH3Z/P6dw9mDTQAuB52vxxapS/7h6aF8fa5pFYRNAL44/l6MHf99XFtI9C0g2CUPtW/9R++5qGqUhDiAfCU2QWqG6nJmj5NAG7+nNkD8gJ4fawftKQ7e9WbPwmAWzz6qCZ9ASIAjuuZwzrCAC77biau33wpp1MUYQCnerUAVkobgNK0AShNGwAtmptdlAQAdZ6d3xUEYOlcHMCM7m2dC5vQrBuoklSXBKDTs5acUs50N2F0Lt0FgJThuwcAnQOtcSIbqRpoXmNlZQJ6pF12A7AWAC5NV2NCDICkEFzahFKspxeQ1n9q66pK8uAmHkDi7cKthwiaILUkgF73ZlkAiiY02s6yJqRIEECCFD2F4vseEoiVhdF48gJcAQC/iS0BIMxEnAvkWACXD8qvGoQ5KeRCLeJMqH/CofmYJhmAvx0uONYf21cNNJ/zJZqQ0AwXHNtHrPCh950TAXC6jcDtT/YnrVpEALSvrdT1++FK4Y2AuSS+juAA8PKhBZDwqF5jhygiwcBM3ftCzdN+tg9o7NHFrBEwU/++UHOc/Zg1HgDlj9lncQA4zZ8I4vVnFsnz54HroTehtPdVpP6ZRxvhcy8ShQv6l/7GF57mkbB1gux70F9tX+hbmwuFGxDXr0Ob6V6b+okPNOlXmcH9B2vqaM/q6hoAAwC1BqAitynyAHDyDv9Ja6N07D6LQsyW6snt5mpHpad/wf1H6DqHkG1wteYClwR1kKwiI5PsndByU8mUeSXiqnk6+ggHSc5w3HXcusA3KtkBsNXj1IXsxyWJm+smniRdXSp6K4G7WmXmfkNeU+SI2EpKB5MFwI78FdITucgSAMJW7w0YArC5iwEYpD7pqgBCQyAYAmM72F7MlLDczlxwDLfnXKgojDuWBzfwLxSlpbxRLIobGT+KO0CoazjyOLEQh/ClUdG2I4srBYDCIstSxJmruhsSj54q0vSJbWAraZm1G4A3ScoCoJmMmhNlxUk2pQZ6g+75lCqLCY1BxIQSS5TtqUzAsfTG8wO6ncpObEdBh1EgTzVzWAOt3LTE4TQjAFu1qnJssFFPpIGUC0RceSYAUre4ngmkY61gvyoA8KTDsriDpy0I529CBNEAEBKlOIeW2/rnhp4lRENRNS5h5CZcl/FTW4HFeQEg/bmPRFu7sZFiQIwR1iEJikjU3xG7+W59A2AH3SkOe3KPQUSS9oNWrBMHzX7Q9ixzgfNIZh8IcuKQyQCKAhM5m8KBFjGaOrWTAJAY5LqxdEZD2QZtMVttq1uRwdbYbRnAbwk732CWxkFEZlSska8pyhfczsxKUXnOjWcHFK7YFu565xCwAI6J3+g2djx1LgOogL+SOS3OhE51DAAu3ANPhNeYg+gPYj+qcFocU3zZ/xphQkS0pTdW3RoT2syKnQiAq39ScnOAGB+wZcPeSOSxU5/G/tDAUYvISGnF8S04YiLynYahM1NjKrtyXP0VXDIC+BLhXYnz7tP8KOS5WRWgqYBOtMTsBBfgn9TPD6O+OZ8DYBsWkGHKhIQOF49fSc9wNECFbjefuBI3twAwIQ9dqwMIyU+5AEtMiEyGQz0nUPGNM18ACeK3fOcuAJAsx1UNjAkgIB1wvWq+80f1x0He0QA5ucuPlbJRLp9wcfoBMGEWBVbEP09hRitqugwb0YNNKUyVy/IB/yyFqWa4E3rtzIBIEbnyxQE1E6JDgOsd9hIXpWjPSa2hIK9loDkMFt8LAFuqEDw9jNFdpTWn8qZMWlmws0Nlcc6cZayXSmORZwIQVQ1Lo8cujwmZC39wpaXFAViyuemB53NxyGjUTci6CIqSHp6A5roAUIds+ig1CqyaWEJ1k5QI7dDdOLJq5Ijvj+0HraOWI2UAqhQkM9t6QENmiNTFh5whR0a9GgDOxdCSJsQIDpYctppztg5XKYpilBAWZULjcNYowmv3TN0sZEI5lweLODHNMBRlK8ry9IJzPEXReqKCu1w7gDWaUEbaAJQmCqD9RvSPa/wFiIGuh9RTm5dd1JDOTvVPz0nHMiy4K9d1h677335I+QWIwgDGE9gTbKisCaGvpAe8alCMggDcP2UCsJwZUR9IPJahl1ru+UB6FOqkFnzAcWzngc+ph8OUMyGFmXhZ4nOhVf4a1kppA1CaNgClaQNQmjYApWkDUJo2AC+/1/V33W/ICTti4y+dtWs9cfPMHHoqsaYC6LPv9lA0KQ8HAMSU3Rx6KrKmAjjW75+by+G2gAvbETu3DCKrOfRUZE0EcD2Ma8+wtWjHL7NOh57KrIkAztOJemE7YsfeLCTW6dBTmTUVwO6vf/adEwftx1z25gdsfazToacyayKA0+5d55kPYQD634yUWadDT/MD6ILd0/7NlxAAg0GIrObQ0+wAzr3kWwchO2KDx4is5tBTWWoigMu+U+kGICQKDXqIrOa+Z49C42DfOpB3xCY9JFZw6KkoNXUiG+bXgJkYfLNFZDWHnmafiZuXn8fjScUdscEyQljNoacS65aNlqYNQGnaAJSmDUBp2gCUpg1AadoAlKYNQGnaAJSm1QP4D2quYDUvsw2GAAAAAElFTkSuQmCC" alt="plot of chunk unnamed-chunk-2"/></p>
+
+<p>Interestingly, there isn&#39;t a correlation between the difference in life
+expectancy between sexes and the overall life expectancy in a country.</p>
+
+<h2>About this report</h2>
+
+<p>This report was generated from an R script which performs the
+underlying calculations. The code and console output have been
+removed to make it easier to read. If you want to see the code,
+you can check out the latest version at
+<a href="https://github.com/ajsteele/ageless/blob/master/code/le-sex-difference.R">GitHub</a>,
+and if you want to view the console output, see
+<a href="https://github.com/ajsteele/ageless/blob/master/output/le-sex-difference.txt">le-sex-difference.txt</a>.</p>
+
+</body>
+
+</html>

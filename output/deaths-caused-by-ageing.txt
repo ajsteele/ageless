@@ -1,0 +1,96 @@
+  |                                                                                                                                                                                               |                                                                                                                                                                                       |   0%  |                                                                                                                                                                                               |.......................                                                                                                                                                                |  12%
+  ordinary text without R code
+
+  |                                                                                                                                                                                               |..............................................                                                                                                                                         |  25%
+label: initialisation
+  |                                                                                                                                                                                               |.....................................................................                                                                                                                  |  38%
+label: calculations
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex_name = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex_name = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_set_version_id = col_double(),
+  location_id = col_double(),
+  location_name = col_character(),
+  parent_id = col_double(),
+  level = col_double(),
+  sort_order = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_set_version_id = col_double(),
+  location_id = col_double(),
+  location_name = col_character(),
+  parent_id = col_double(),
+  level = col_double(),
+  sort_order = col_double()
+)
+
+
+-- Column specification -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  `Country or Area` = col_character(),
+  Year = col_double(),
+  Value = col_double(),
+  `Value Footnotes` = col_logical()
+)
+
+Warning: 5 parsing failures.
+ row             col           expected                                   actual                                              file
+5590 Value Footnotes 1/0/T/F/TRUE/FALSE 2                                        '../data/un/UNdata_Export_20190824_172419049.csv'
+6498 Year            a double           Footnote                                 '../data/un/UNdata_Export_20190824_172419049.csv'
+6498 NA              4 columns          2 columns                                '../data/un/UNdata_Export_20190824_172419049.csv'
+6499 Year            a double           Excludes South Sudan after July 9, 2011. '../data/un/UNdata_Export_20190824_172419049.csv'
+6499 NA              4 columns          2 columns                                '../data/un/UNdata_Export_20190824_172419049.csv'
+
+  |                                                                                                                                                                                               |............................................................................................                                                                                           |  50%
+label: plot_data
+  |                                                                                                                                                                                               |..................................................................................................................                                                                     |  62%
+label: summary_text
+  |                                                                                                                                                                                               |.........................................................................................................................................                                              |  75%
+   inline R code fragments
+
+  |                                                                                                                                                                                               |................................................................................................................................................................                       |  88%
+label: unnamed-chunk-1
+  |                                                                                                                                                                                               |.......................................................................................................................................................................................| 100%
+  ordinary text without R code
+
+
