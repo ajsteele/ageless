@@ -52,11 +52,12 @@ different countries and around the world, using WHO GBD data.
 ### `le-sex-difference.R`
 
 This calculates the difference in lifespan between women and men, in different
-countries and around the world, based on
+countries and around the world, based on WHO GBD data.
 
 ### `mortality-with-age.R`
 
-This looks at how risk of death varies with age.
+This looks at how risk of death varies with age in high-income countries, using
+data from the Human Mortality Database.
 
 ### `init.R`
 
@@ -76,7 +77,7 @@ Styling and convenience functions for plotting, inspired by
 
 ## `data/`
 
-### `who-gbd`
+### `who-gbd/`
 
 These data are from the World Health Organization Global Burden of Disease.
 Some files are from the preexisting
