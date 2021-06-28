@@ -27,6 +27,10 @@ Here are some general tips for making an effective case to a politician:
 
 I’ve adapted these [from this page](https://scienceisvital.org.uk/resources/how-to-write-mp-letter/) I co-wrote as part of a campaign with Science is Vital in the UK. My experience of political campaigning is UK-specific, so if you have any thoughts which are relevant to other countries, please let me know.
 
+## Other political support
+
+* If you live in the EU, you can endorse [this proposal for EU-level commitments to enable healthy longevity research and technologies](https://futureu.europa.eu/processes/Health/f/3/proposals/826).
+
 ## Donate to biogerontology charities
 
 Each of these titles is a link to a page where you can donate to a particular organisation. Organisations are listed in reverse alphabetical order, and I have no affiliation with any of them—though in a few cases I interviewed scientists working at them while writing _Ageless_.
