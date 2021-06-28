@@ -49,7 +49,7 @@ The Kogod Center, based at the Mayo Clinic, works on a number of aspects of the 
 
 ### [National Institute on Aging (NIA)](https://www.nia.nih.gov/about/donations)
 
-Though the NIA is a taxpayer-funded government body in the US, it can accept private donations. As I mention in _Ageless_, the majority of its funding is invested in research into dementia, rather than the aging process that causes it, in spite of the institute’s name. The donate page linked here does suggest you can specify that funds be directed towards Alzheimer’s, and I’m awaiting clarification from the NIA about whether you can direct funds to the Division of Aging Biology specifically too.
+Though the NIA is a taxpayer-funded government body in the US, it can accept private donations. When making a donation, you should designate funds for aging biology specifically by designating either the **Division of Aging Biology**, or one of the the [NIA’s intramural research labs](https://www.nia.nih.gov/research/labs/irp-labs) as the recipient of your donation. (This is important because for historical reasons the NIA invests a large amount of its research funding into Alzheimer’s disease rather than the aging process itself.)
 
 ### [Methuselah Foundation](https://www.mfoundation.org/join-us#donate)
 
