@@ -39,13 +39,13 @@ It’s worth checking whether gifts are tax deductible, or eligible for the simi
 
 ## Charities in the US
 
-### [University of Washington Healthy Aging and Longevity Research Institute](https://halo.dlmp.uw.edu/donate/)
-
-The HALO institute at UW works on a variety of projects aimed at understanding and intervening in the ageing process, including the Dog Aging Project, listed separately below.
-
 ### [SENS Research Foundation](https://www.sens.org/get-involved/donate/)
 
 The SENS (Strategies for Engineered Negligible Senescence) Research Foundation was founded by Aubrey de Grey to create treatments based on his SENS approach to treating aging.
+
+### [University of Washington Healthy Aging and Longevity Research Institute](https://halo.dlmp.uw.edu/donate/)
+
+The HALO institute at UW works on a variety of projects aimed at understanding and intervening in the ageing process, including the Dog Aging Project, listed separately below.
 
 ### [Robert and Arlene Kogod Center on Aging](https://www.mayo.edu/research/centers-programs/robert-arlene-kogod-center-aging/contact/support-aging-research)
 
@@ -58,6 +58,10 @@ Though the NIA is a taxpayer-funded government body in the US, it can accept pri
 ### [Methuselah Foundation](https://www.mfoundation.org/join-us#donate)
 
 The Methuselah Foundation supports a number of prizes and early-stage companies to encourage development of regenerative medicines against the diseases of ageing.
+
+### [MDI Biological Laboratory](https://mdibl.org/support-us/donate-now/)
+
+The MDI is a Maine-based independent nonprofit biomedical research institution, aiming ‘to improve human health by discovering fundamental novel mechanisms of tissue repair, aging and regeneration’.
 
 ### [lifespan.io](https://www.lifespan.io/crowdfunding/)
 
