@@ -31,6 +31,10 @@ I’ve adapted these [from this page](https://scienceisvital.org.uk/resources/ho
 
 * If you live in the EU, you can endorse [this proposal for EU-level commitments to enable healthy longevity research and technologies](https://futureu.europa.eu/processes/Health/f/3/proposals/826).
 
+## Further reading
+
+If you’d like to read more about how to use research funding to combat ageing from a policy perspective, you might find [this submission](https://andrewsteele.co.uk/blog/2019/10/lords-ageing-science-inquiry/) I made to the UK’s House of Lords inquiry into ageing biology useful. Further policy recommendations can be found in the final Chapter of [_Ageless_](https://andrewsteele.co.uk/ageless/).
+
 ## Donate to biogerontology charities
 
 Each of these titles is a link to a page where you can donate to a particular organisation. Organisations are listed in reverse alphabetical order, and I have no affiliation with any of them—though in a few cases I interviewed scientists working at them while writing _Ageless_.
