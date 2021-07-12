@@ -67,7 +67,7 @@ The Methuselah Foundation supports a number of prizes and early-stage companies 
 
 The MDI is a Maine-based independent nonprofit biomedical research institution, aiming ‘to improve human health by discovering fundamental novel mechanisms of tissue repair, aging and regeneration’.
 
-### [lifespan.io](https://www.lifespan.io/crowdfunding/)
+### [lifespan.io](https://www.lifespan.io/how-you-can-help/)
 
 The Life Extension Advocacy Foundation (LEAF) runs crowdfunding campaigns for specific scientific projects, or you can ‘become a Lifespan Hero’ and help them continue to develop their community, conferences and events to raise the profile of biogerontology.
 
