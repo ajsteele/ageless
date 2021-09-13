@@ -71,6 +71,10 @@ The MDI is a Maine-based independent nonprofit biomedical research institution, 
 
 The Life Extension Advocacy Foundation (LEAF) runs crowdfunding campaigns for specific scientific projects, or you can ‘become a Lifespan Hero’ and help them continue to develop their community, conferences and events to raise the profile of biogerontology.
 
+### [Impetus Grants](https://impetusgrants.org/)
+
+Rapid grants of up to $500k for longevity research, with initial funding from the cryptocurrency community. Their goal is ‘to have a broad impact on the field, by supporting projects that challenge assumptions, develop new tools and methodologies, discover new ways to reverse aging processes, and/or synthesize isolated manifestations of aging into a systemic perspective.’ To donate, email [donations@impetusgrants.com](mailto:donations@impetusgrants.com).
+
 ### [Dog Aging Project](https://dogagingproject.org/donate/)
 
 The Dog Aging Project is enrolling thousands of dogs to study how their biology changes with age in detail, with the hope of applying the same insight to humans too. Some dogs will also be trialling anti-ageing drug rapamycin—a safety study has already shown that there are no serious side-effects, and that it improved heart health.
