@@ -104,3 +104,10 @@ The BSRA funds research, PhD studentships and outreach and public engagement act
 ### [Biogerontology Research Foundation](http://bg-rf.org.uk/donate)
 
 The Biogerontology Research Foundation funds research and advocacy around ageing biology, including financing the UK’s [All Party Parliamentary Group on Longevity](https://appg-longevity.org/).
+
+
+## Charities in Switzerland
+
+### [Longevity Science Foundation](https://longevity.foundation/join)
+
+A new foundation aiming for a ‘healthy human lifespan of 120+ years…within our lifetimes’, currently soliciting proposals for grant funding.
