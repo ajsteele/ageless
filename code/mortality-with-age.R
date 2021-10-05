@@ -19,12 +19,12 @@ source('init.R')
 countries_hmd <- read_csv('../data/mortality.org/codelist.csv')
 
 # Load a list of countries from the World Bank
-countries_wb <- wbcountries('en')
+countries_wb <- wb_countries('en')
 
 # Select the high-income countries in the HMD
 countries <-
   countries_hmd %>%
-  filter(country_iso3c %in% countries_wb$iso3c[countries_wb$incomeID == 'HIC'])
+  filter(country_iso3c %in% countries_wb$iso3c[countries_wb$income_level_iso3c == 'HIC'])
 
 # Load the life tables and populations of the countries of interest
 countries_lt <- tibble()
@@ -175,4 +175,4 @@ avg_lt %>%
   select(-c('risk', 'odds_cum')) %>%
   # Use kable to knit a nice table
   kable() %>%
-  kable_styling()
+  kable_styling()  kable_styling()
