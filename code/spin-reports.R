@@ -13,18 +13,24 @@ github_repo <- 'https://github.com/ajsteele/ageless/'
 github_file_prepend <- 'blob/master/'
 github_url <- paste0(github_repo, github_file_prepend)
 
-pretty_spin <- function(filename, output_dir = '../output/', addendum = TRUE) {
+pretty_spin <- function(
+  filename, output_dir = '../output/', addendum = TRUE, log_file = TRUE
+  ) {
   message('Pretty-spinning ', filename, '...', appendLF = FALSE)
   
-  # Turn the script name into a 
+  # Remove the script filename extension so we can use it for the report and log
   filename_sans_ext <- sans_ext(filename)
   
-  # Write console output to a separate text file
-  con <- file(file.path(output_dir, with_ext(filename_sans_ext, 'txt')))
-  sink(con, append=TRUE)
-  sink(con, append=TRUE, type="message")
-  # TODO - add error catching so if the spinning fails then the messages are
-  # displayed in the terminal again
+  # If requested, write console output to a separate text file
+  if(log_file){
+    con <- file(file.path(output_dir, with_ext(filename_sans_ext, 'txt')))
+    sink(con, append=TRUE)
+    sink(con, append=TRUE, type="message")
+    # TODO - add error catching so if the spinning fails then the messages are
+    # displayed in the terminal again (I kludged this a bit by adding the
+    # log_file argument so you can at least test this but it would still be a
+    # good feature!)
+  }
   
   # Don't show any of the messages in the spun document - this is for non-nerds!
   opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
@@ -76,9 +82,11 @@ pretty_spin <- function(filename, output_dir = '../output/', addendum = TRUE) {
     file.path(output_dir, with_ext(filename_sans_ext, '.html'))
   )
   
-  # Restore output to console
-  sink()
-  sink(type="message")
+  # If we took it away, restore output to console
+  if(log_file){
+    sink()
+    sink(type="message")
+  }
   
   # Restore default spin options
   opts_chunk$set(echo = TRUE, warning = TRUE, message = TRUE)
