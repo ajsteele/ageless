@@ -18,7 +18,7 @@ statto_style <- function() {
     
     #This sets the font, size, type and colour of text for the chart's title
     plot.title = ggplot2::element_text(family='Roboto Medium',
-                                       size=16,
+                                       size=24,
                                        color="#222222"),
     #This sets the font, size, type and colour of text for the chart's subtitle, as well as setting a margin between the title and the subtitle
     plot.subtitle = ggplot2::element_text(family='Roboto Light',
