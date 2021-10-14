@@ -14,15 +14,45 @@ source('stattoplot.R')
 data_dir <- '../data'
 output_dir <- '../output'
 
-sig_fig <- function(x, n = 3) {
-  return(formatC(signif(x, digits = n), digits = n, format="fg", flag="#"))
+gm_mean <- function(x) {
+  exp(mean(log(x)))
 }
 
-pretty_number <- function(x, sf = 3, percentage = FALSE) {
-  if(percentage){
-    return(paste0(sig_fig(x*100, sf),'%'))
-  } else
-    return (sig_fig(x, sf))
+sig_fig <- function(x, n = 3) {
+  return(prettyNum(signif(x, digits = n), digits = n, format="fg", flag="#"))
+}
+
+pretty_number <- function(x, sf = 3, dp = NA, percentage = FALSE) {
+  if(is.na(dp)) {
+    if(percentage)
+      return(paste0(sig_fig(x*100, sf),'%'))
+    else
+      return (sig_fig(x, sf))
+  } else {
+    if(percentage)
+      return(paste0(round(x*100, dp),'%'))
+    else
+      return (round(x, dp))
+  }
+
+}
+
+# Simple automation of downloading data from a URL to a subfolder of the data
+# folder, as specified. If the download is zipped, it will unzip it ready for
+# use.
+download_data <-
+  function(url, subpath, data_dir, force_download=FALSE) {
+    dest_dir <- file.path(data_dir, subpath)
+    dest_file <- file.path(dest_dir, basename(url))
+    if(!file.exists(dest_file) | force_download) {
+      # If the folder doesn't exist, create it
+      if(!dir.exists(dest_dir)){dir.create(dest_dir)}
+      download.file(url, dest_file)
+      # If it's a zip, unzip it. We'll keep the zip to avoid re-downloading...
+      if(file_ext(url) == 'zip') {
+        unzip(dest_file, exdir = dest_dir)
+      }
+    }
 }
 
 read_life_table_hmd <-
