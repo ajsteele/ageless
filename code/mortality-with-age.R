@@ -175,4 +175,5 @@ avg_lt %>%
   select(-c('risk', 'odds_cum')) %>%
   # Use kable to knit a nice table
   kable() %>%
-  kable_styling()  kable_styling()
+  kable_styling()
+
