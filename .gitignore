@@ -1,0 +1,19 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Data not to share due to...
+# ...size
+data/ihme-population/
+data/un-population/
+# ...licensing
+data/mortality.org/
+
+# Intermediate image files because figures are embedded in the HTML reports
+output/figures/
