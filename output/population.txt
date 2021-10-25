@@ -1,0 +1,359 @@
+  |                                                                                                                                                                                 |                                                                                                                                                                         |   0%  |                                                                                                                                                                                 |......                                                                                                                                                                   |   3%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |...........                                                                                                                                                              |   7%
+label: initialisation
+  |                                                                                                                                                                                 |.................                                                                                                                                                        |  10%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |.......................                                                                                                                                                  |  13%
+label: unnamed-chunk-1
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  LocID = col_double(),
+  Location = col_character(),
+  VarID = col_double(),
+  Variant = col_character(),
+  Time = col_double(),
+  MidPeriod = col_double(),
+  PopMale = col_double(),
+  PopFemale = col_double(),
+  PopTotal = col_double(),
+  PopDensity = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  .default = col_double(),
+  Location = col_character(),
+  Variant = col_character(),
+  Time = col_character()
+)
+i Use `spec()` for the full column specifications.
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  .default = col_double(),
+  Location = col_character(),
+  Variant = col_character(),
+  Time = col_character()
+)
+i Use `spec()` for the full column specifications.
+
+  |                                                                                                                                                                                 |............................                                                                                                                                             |  17%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |..................................                                                                                                                                       |  20%
+label: unnamed-chunk-2
+  |                                                                                                                                                                                 |.......................................                                                                                                                                  |  23%
+   inline R code fragments
+
+  |                                                                                                                                                                                 |.............................................                                                                                                                            |  27%
+label: unnamed-chunk-3
+  |                                                                                                                                                                                 |...................................................                                                                                                                      |  30%
+   inline R code fragments
+
+  |                                                                                                                                                                                 |........................................................                                                                                                                 |  33%
+label: unnamed-chunk-4
+  |                                                                                                                                                                                 |..............................................................                                                                                                           |  37%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |....................................................................                                                                                                     |  40%
+label: unnamed-chunk-5
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  measure_id = col_double(),
+  measure_name = col_character(),
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+  |                                                                                                                                                                                 |.........................................................................                                                                                                |  43%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |...............................................................................                                                                                          |  47%
+label: unnamed-chunk-6
+  |                                                                                                                                                                                 |....................................................................................                                                                                     |  50%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |..........................................................................................                                                                               |  53%
+label: ageless_population_projections
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+  |                                                                                                                                                                                 |................................................................................................                                                                         |  57%
+label: calculations_un
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  LocID = col_double(),
+  Location = col_character(),
+  VarID = col_double(),
+  Variant = col_character(),
+  Time = col_double(),
+  MidPeriod = col_double(),
+  AgeGrp = col_character(),
+  AgeGrpStart = col_double(),
+  AgeGrpSpan = col_double(),
+  PopMale = col_double(),
+  PopFemale = col_double(),
+  PopTotal = col_double()
+)
+
+Joining, by = "year"
+  |                                                                                                                                                                                 |.....................................................................................................                                                                    |  60%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |...........................................................................................................                                                              |  63%
+label: calculations_ihme
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  age_group_id = col_double(),
+  age_group_name = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+Joining, by = c("age_group", "year")
+  |                                                                                                                                                                                 |.................................................................................................................                                                        |  67%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |......................................................................................................................                                                   |  70%
+label: unnamed-chunk-7
+  |                                                                                                                                                                                 |............................................................................................................................                                             |  73%
+   inline R code fragments
+
+  |                                                                                                                                                                                 |..................................................................................................................................                                       |  77%
+label: unnamed-chunk-8
+  |                                                                                                                                                                                 |.......................................................................................................................................                                  |  80%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |.............................................................................................................................................                            |  83%
+label: unnamed-chunk-9
+  |                                                                                                                                                                                 |..................................................................................................................................................                       |  87%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |........................................................................................................................................................                 |  90%
+label: unnamed-chunk-10
+
+-- Column specification -----------------------------------------------------------------------------------------------------------------------------------------------------------
+cols(
+  location_id = col_double(),
+  location_name = col_character(),
+  sex_id = col_double(),
+  sex = col_character(),
+  year_id = col_double(),
+  measure_id = col_double(),
+  measure_name = col_character(),
+  metric_id = col_double(),
+  metric_name = col_character(),
+  scenario = col_double(),
+  scenario_name = col_character(),
+  val = col_double(),
+  upper = col_double(),
+  lower = col_double()
+)
+
+  |                                                                                                                                                                                 |..............................................................................................................................................................           |  93%
+  ordinary text without R code
+
+  |                                                                                                                                                                                 |...................................................................................................................................................................      |  97%
+label: unnamed-chunk-11
+  |                                                                                                                                                                                 |.........................................................................................................................................................................| 100%
+  ordinary text without R code
+
+

@@ -10,9 +10,11 @@ If you’re just here for the answers rather than the code, here they are:
  * [Fraction of deaths attributable to ageing](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/deaths-caused-by-ageing.html)
  * [Causes of death and disbility, incidence and deaths with age](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/causes-with-age.html)
  * [Difference between female and male life expectancy](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/le-sex-difference.html)
+ * [Simple projections of population in an ageless world](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/population.html)
 
-The data and code in this release are those that were used for the first
-publication of the book, in hardback form. Other references can be found at
+The data and code in this repository are occasionally updated as I perform new calculations, and if I find any mistakes. For completeness, [the 1.0 release](https://github.com/ajsteele/ageless/releases/tag/v1.0) corresponds to the first publication of the book, in hardback form.
+
+Other references can be found at
 [andrewsteele.co.uk/ageless/references](https://andrewsteele.co.uk/ageless/references/)
 and other data and calculations simple enough not to require scripting are
 available in
@@ -58,6 +60,10 @@ countries and around the world, based on WHO GBD data.
 
 This looks at how risk of death varies with age in high-income countries, using
 data from the Human Mortality Database.
+
+### `population.R`
+
+This calculates the global population based on UN and IHME scenarios under the (rather simplistic!) assumption that we either cure ageing or all death in 2025. This requires some pretty large data files, so it downloads them at runtime, rather than them being included in this repository.
 
 ### `init.R`
 

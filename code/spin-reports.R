@@ -6,7 +6,8 @@ scripts_to_spin <-
     'mortality-with-age.R',
     'deaths-caused-by-ageing.R',
     'causes-with-age.R',
-    'le-sex-difference.R'
+    'le-sex-difference.R',
+    'population.R'
   )
 
 github_repo <- 'https://github.com/ajsteele/ageless/'
