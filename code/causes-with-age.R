@@ -1,4 +1,4 @@
-#' # Causes of death and disbility, incidence and deaths with age
+#' # Causes of death and disability, incidence and deaths with age
 #' 
 #' How does incidence of and deaths by various causes vary with age? This report
 #' uses [WHO Global Burden of Disease (GBD)](http://www.healthdata.org/gbd) data
