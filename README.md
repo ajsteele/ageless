@@ -6,11 +6,11 @@ old_](https://andrewsteele.co.uk/ageless/).
 
 If you’re just here for the answers rather than the code, here they are:
 
- * [How mortality varies with age](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/mortality-with-age.html)
- * [Fraction of deaths attributable to ageing](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/deaths-caused-by-ageing.html)
- * [Causes of death and disbility, incidence and deaths with age](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/causes-with-age.html)
- * [Difference between female and male life expectancy](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/le-sex-difference.html)
- * [Simple projections of population in an ageless world](http://htmlpreview.github.io/?https://github.com/ajsteele/ageless/blob/main/output/population.html)
+ * [How mortality varies with age](https://andrewsteele.co.uk/ageless/references/mortality-with-age-mrdt/)
+ * [Fraction of deaths attributable to ageing](https://andrewsteele.co.uk/ageless/references/deaths-caused-by-ageing/)
+ * [Causes of death and disability, incidence and deaths with age](https://andrewsteele.co.uk/ageless/references/causes-death-disability-with-age/)
+ * [Difference between female and male life expectancy](https://andrewsteele.co.uk/ageless/references/life-expectancy-female-male-sex-differences/)
+ * [Simple projections of population in an ageless world](https://andrewsteele.co.uk/ageless/references/population-estimates-cure-ageing-death/)
 
 The data and code in this repository are occasionally updated as I perform new calculations, and if I find any mistakes. For completeness, [the 1.0 release](https://github.com/ajsteele/ageless/releases/tag/v1.0) corresponds to the first publication of the book, in hardback form.
 
