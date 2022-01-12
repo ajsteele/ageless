@@ -13,6 +13,8 @@ This isn’t a complete list, so if you have any suggestions, please [get in tou
 
 Wherever you are in the world, you can write to politicians that represent you to tell them about the huge potential of ageing biology—and that, to secure your vote, they would do well to invest in it.
 
+* If you’re in the US, [The Alliance for Longevity Initiatives](https://a4li.org/) is a new nonprofit aiming to raise the political profile of aging research.
+
 Here are some general tips for making an effective case to a politician:
 
 * Find the email address of the people who represent you!
@@ -86,6 +88,10 @@ The Buck Institute is a California-based research institute dedicated entirely t
 ### [American Federation for Aging Research (AFAR)](https://www.afar.org/donate)
 
 AFAR engages in policy advocacy and directly funds research into aging biology. It is also the organisation spearheading the TAME trial of metformin as a potential anti-aging drug.
+
+### [The Alliance for Longevity Initiatives (A4LI)](https://a4li.org/make-a-donation/)
+
+As mentioned above, A4LI is nonprofit focused on raising the political profile of aging research: in their own words, ‘advancing legislation, policies and initiatives that aim to increase healthy human lifespan’. They accept donations as well as volunteering time.
 
 ### [Albert Einstein College of Medicine](https://einsteinmed.org/giving/online-gift/)
 
