@@ -14,6 +14,7 @@ This isn’t a complete list, so if you have any suggestions, please [get in tou
 Wherever you are in the world, you can write to politicians that represent you to tell them about the huge potential of ageing biology—and that, to secure your vote, they would do well to invest in it.
 
 * If you’re in the US, [The Alliance for Longevity Initiatives](https://a4li.org/) is a new nonprofit aiming to raise the political profile of aging research.
+* In the UK, the [All Party Parliamentary Group for Longevity](https://appg-longevity.org/) is a group of MPs interested in longevity.
 
 Here are some general tips for making an effective case to a politician:
 
@@ -43,11 +44,13 @@ Each of these titles is a link to a page where you can donate to a particular or
 
 It’s worth checking whether gifts are tax deductible, or eligible for the similar Gift Aid scheme in the UK, as this may increase the amount you’re able to donate.
 
+There is another useful list at [AgingBiotech.info/nonprofits](https://agingbiotech.info/nonprofits/) which it might also be worth checking out!
+
 ## Charities in the US
 
 ### [SENS Research Foundation](https://www.sens.org/get-involved/donate/)
 
-The SENS (Strategies for Engineered Negligible Senescence) Research Foundation was founded by Aubrey de Grey to create treatments based on his SENS approach to treating aging.
+The SENS (Strategies for Engineered Negligible Senescence) Research Foundation is developing therapies to repair damage accumulated during the aging process.
 
 ### [University of Washington Healthy Aging and Longevity Research Institute](https://halo.dlmp.uw.edu/donate/)
 
@@ -72,6 +75,10 @@ The MDI is a Maine-based independent nonprofit biomedical research institution, 
 ### [lifespan.io](https://www.lifespan.io/how-you-can-help/)
 
 The Life Extension Advocacy Foundation (LEAF) runs crowdfunding campaigns for specific scientific projects, or you can ‘become a Lifespan Hero’ and help them continue to develop their community, conferences and events to raise the profile of biogerontology.
+
+### [LEVF](https://www.levf.org/)
+
+The Longevity Escape Velocity Foundation is a new organisation founded by Aubrey de Grey that ‘exists to proactively identify and address the most challenging obstacles on the path to effective treatments to prevent and reverse age-related disease’. Its first big project is [a study of combinations of therapies](https://www.levf.org/projects/robust-mouse-rejuvenation-study-1) in mice.
 
 ### [Impetus Grants](https://impetusgrants.org/)
 
