@@ -48,10 +48,6 @@ There is another useful list at [AgingBiotech.info/nonprofits](https://agingbiot
 
 ## Charities in the US
 
-### [SENS Research Foundation](https://www.sens.org/get-involved/donate/)
-
-The SENS (Strategies for Engineered Negligible Senescence) Research Foundation is developing therapies to repair damage accumulated during the aging process.
-
 ### [University of Washington Healthy Aging and Longevity Research Institute](https://halo.dlmp.uw.edu/donate/)
 
 The HALO institute at UW works on a variety of projects aimed at understanding and intervening in the ageing process, including the Dog Aging Project, listed separately below.
@@ -96,6 +92,10 @@ The Buck Institute is a California-based research institute dedicated entirely t
 
 AFAR engages in policy advocacy and directly funds research into aging biology. It is also the organisation spearheading the TAME trial of metformin as a potential anti-aging drug.
 
+### [An Lab](https://www.rapamycintrial.com/donate)
+
+Jonathan An’s lab at the University of Washington, Seattle, [researches](https://anlabuw.com/research/) ‘the underlying molecular and cellular mechanisms involved in oral disease and health as we age’. They are running a [trial](https://www.rapamycintrial.com/) testing if rapamycin can improve oral health in older adults.
+
 ### [The Alliance for Longevity Initiatives (A4LI)](https://a4li.org/make-a-donation/)
 
 As mentioned above, A4LI is nonprofit focused on raising the political profile of aging research: in their own words, ‘advancing legislation, policies and initiatives that aim to increase healthy human lifespan’. They accept donations as well as volunteering time.
@@ -103,6 +103,10 @@ As mentioned above, A4LI is nonprofit focused on raising the political profile o
 ### [Albert Einstein College of Medicine](https://einsteinmed.org/giving/online-gift/)
 
 The [Institute for Aging Research](https://einsteinmed.org/centers/aging/) at Einstein has a number of aging research programs, most famously large studies of centenarians’ genetics and the TAME trial of metformin as a potential anti-aging drug. When donating, choose ‘Other fund’ as the designation, and in the Comment/Designate a program box, specify the **Institute for Aging Research**.
+
+### [SENS Research Foundation](https://www.sens.org/get-involved/donate/)
+
+The SENS (Strategies for Engineered Negligible Senescence) Research Foundation is developing therapies to repair damage accumulated during the aging process.
 
 ## Charities in the UK
 
