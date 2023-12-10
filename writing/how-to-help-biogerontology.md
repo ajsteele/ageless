@@ -22,7 +22,7 @@ Here are some general tips for making an effective case to a politician:
     * In the US, you can use [this page](https://www.usa.gov/elected-officials) to find links on this page to write to local government, Representatives, Senators or the President.
     * In the UK, you can use [this page](https://members.parliament.uk/members/commons) to find your MP and their contact details, or you can contact them through [www.writetothem.com](https://www.writetothem.com/). Remember to include your full name and home address with postcode in your message so your MP knows you’re a constituent.
 * Keep your letter short and to the point. Politicians are very busy, and can receive hundreds of pieces of correspondence per day.
-* Have a specific request—it could be as simple as that they find out more about ageing biology, or that they sign a petition or motion, or raise the issue with a relevant person or department. This will make it easier for the person you’re writing to to take action.
+* Have a specific request—it could be as simple as that they find out more about ageing biology, or that they sign a petition or motion, or raise the issue with a relevant person or department. Asking for something specific makes it easier for the person you’re writing to to take action.
 * If you have experience or expertise on the topic you’re writing on, briefly mention it to lend weight to your case.
 * Make your letter personal, rather than just copying and pasting a form letter—this will make your message more powerful. Include your own stories where possible. For example, how has ageing affected you personally? Are you caring for a friend or relative, or maybe you or someone you know is a patient with an age-related disease? Are you a scientist or a doctor with an interest in this field?
 * If there are specific issues that directly affect others in your constituency, town or state, mention this. Ageing of course affects all of us, but if there are issues specific to your area, your representative is more likely to be willing and able to engage.
@@ -51,6 +51,10 @@ There is another useful list at [AgingBiotech.info/nonprofits](https://agingbiot
 ### [University of Washington Healthy Aging and Longevity Research Institute](https://halo.dlmp.uw.edu/donate/)
 
 The HALO institute at UW works on a variety of projects aimed at understanding and intervening in the ageing process, including the Dog Aging Project, listed separately below.
+
+### [SENS Research Foundation](https://www.sens.org/get-involved/donate/)
+
+The SENS (Strategies for Engineered Negligible Senescence) Research Foundation is developing therapies to repair damage accumulated during the aging process.
 
 ### [Robert and Arlene Kogod Center on Aging](https://www.mayo.edu/research/centers-programs/robert-arlene-kogod-center-aging/contact/support-aging-research)
 
@@ -104,24 +108,19 @@ As mentioned above, A4LI is nonprofit focused on raising the political profile o
 
 The [Institute for Aging Research](https://einsteinmed.org/centers/aging/) at Einstein has a number of aging research programs, most famously large studies of centenarians’ genetics and the TAME trial of metformin as a potential anti-aging drug. When donating, choose ‘Other fund’ as the designation, and in the Comment/Designate a program box, specify the **Institute for Aging Research**.
 
-### [SENS Research Foundation](https://www.sens.org/get-involved/donate/)
-
-The SENS (Strategies for Engineered Negligible Senescence) Research Foundation is developing therapies to repair damage accumulated during the aging process.
-
 ## Charities in the UK
 
-### [Integrative Genomics of Ageing Group, University of Liverpool](http://pcwww.liv.ac.uk/~aging/)
+### [Genomics of Ageing and Rejuvenation Lab, University of Birmingham](https://rejuvenomicslab.com/contact/)
 
-The Integrative Genomics of Ageing Group uses computational methods, such as analysing genome sequencing data, to understand the ageing process. Among other projects, they sequenced the genome of the exceptionally long-lived bowhead whale.
+The Genomics of Ageing and Rejuvenation Lab uses computational methods, such as analysing genome sequencing data, to understand the ageing process. Among other projects, they sequenced the genome of the exceptionally long-lived bowhead whale.
 
 ### [British Society for Research on Ageing (BSRA)](https://bsra.org.uk/donate/)
 
 The BSRA funds research, PhD studentships and outreach and public engagement activities in the UK.
 
-### [Biogerontology Research Foundation](http://bg-rf.org.uk/donate)
+### [Biogerontology Research Foundation](https://www.biogerontology.info/)
 
 The Biogerontology Research Foundation funds research and advocacy around ageing biology, including financing the UK’s [All Party Parliamentary Group on Longevity](https://appg-longevity.org/).
-
 
 ## Charities in Switzerland
 
