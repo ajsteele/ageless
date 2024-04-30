@@ -13,8 +13,7 @@ This isn’t a complete list, so if you have any suggestions, please [get in tou
 
 Wherever you are in the world, you can write to politicians that represent you to tell them about the huge potential of ageing biology—and that, to secure your vote, they would do well to invest in it.
 
-* If you’re in the US, [The Alliance for Longevity Initiatives](https://a4li.org/) is a new nonprofit aiming to raise the political profile of aging research.
-* In the UK, the [All Party Parliamentary Group for Longevity](https://appg-longevity.org/) is a group of MPs interested in longevity.
+If you’re in the US, [The Alliance for Longevity Initiatives](https://a4li.org/) is a new nonprofit aiming to raise the political profile of aging research.
 
 Here are some general tips for making an effective case to a politician:
 
@@ -120,7 +119,7 @@ The BSRA funds research, PhD studentships and outreach and public engagement act
 
 ### [Biogerontology Research Foundation](https://www.biogerontology.info/)
 
-The Biogerontology Research Foundation funds research and advocacy around ageing biology, including financing the UK’s [All Party Parliamentary Group on Longevity](https://appg-longevity.org/).
+The Biogerontology Research Foundation funds research and advocacy around ageing biology.
 
 ## Charities in Switzerland
 
