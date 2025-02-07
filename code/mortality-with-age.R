@@ -4,7 +4,7 @@
 
 source('init.R')
 
-#' ## Read in data
+#' ## Data source
 #' 
 #' We’re using data from the
 #' [Human Mortality Database](https://www.mortality.org/),
@@ -12,6 +12,13 @@ source('init.R')
 #' around the world. For this analysis we’ll concentrate on the World Bank’s
 #' ‘high-income countries’ in that database, averaged over the five most recent
 #' years of data.
+#' 
+#' ### Citation
+#' 
+#' HMD. Human Mortality Database. Max Planck Institute for Demographic  Research
+#' (Germany), University of California, Berkeley (USA), and French Institute for
+#' Demographic Studies (France). Available at
+#' [www.mortality.org](https://www.mortality.org/).
 #' 
 #+ read_data
 
@@ -37,7 +44,7 @@ for(country in countries$country_hmd) {
         # This is a kludge - we want the five most recent years, but top_n
         # selects from all values, not just unique ones, so only selects the
         # most recent year because there are 111 values (0-110+) for each year.
-        # Should really make a top_n_unique function buy this will do...
+        # Should really make a top_n_unique function but this will do...
         top_n(5*111, year) %>%
         mutate(country = country)
     )
@@ -177,3 +184,5 @@ avg_lt %>%
   kable() %>%
   kable_styling()
 
+# Save full table as a CSV
+avg_lt %>% write_csv(file.path(output_dir, 'mortality-with-age.csv'))

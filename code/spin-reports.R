@@ -14,6 +14,23 @@ github_repo <- 'https://github.com/ajsteele/ageless/'
 github_file_prepend <- 'blob/master/'
 github_url <- paste0(github_repo, github_file_prepend)
 
+pretty_long_date <- function(date = Sys.Date()) {
+    day <- as.integer(format(date, "%d"))
+    
+    # determine ordinal suffix
+    ordinal <-
+        ifelse(day %% 10 == 1 & day != 11, "st",
+        ifelse(day %% 10 == 2 & day != 12, "nd",
+        ifelse(day %% 10 == 3 & day != 13, "rd", "th")))
+    
+    # return formatted string
+    paste0(
+        day, ordinal, # day-th
+        " ",
+        format(date, "%B %Y") # monthname YYYY
+    )
+}
+
 pretty_spin <- function(
   filename, output_dir = '../output/', addendum = TRUE, log_file = TRUE
   ) {
@@ -48,6 +65,12 @@ pretty_spin <- function(
     pretty_report_addendum <-
       c(
         "#' ## About this report",
+        "#'",
+        paste0(
+            "#' _This report was last updated on ",
+            pretty_long_date(),
+            "._"
+        ),
         "#'",
         "#' This report was generated from an R script which performs the",
         "#' underlying calculations. The code and console output have been",

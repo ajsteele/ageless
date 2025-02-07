@@ -100,21 +100,17 @@ for convenience.
 
 ### `mortality.org/`
 
-This folder is mostly empty as per the
-[Human Mortality Database User Agreement](https://www.mortality.org/Public/UserAgreement.php)
-which requests that copies of data downloaded are not passed to other users.
+This folder is mostly empty as per the [Human Mortality Database User Agreement](https://www.mortality.org/Public/UserAgreement.php) which requests that copies of data downloaded are not passed to other users.
 
 It is used in `mortality-with-age.R` via the `read_life_table_hmd()` and
 `read_population_hmd()` convenience functions in `init.R` which expect this
-folder to be populated. You will need to
-[download](https://www.mortality.org/cgi-bin/hmd/hmd_download.php) the 
-‘Period data’, ‘Population estimates (January 1)’ and ‘Life Tables - Both
-Sexes’, and then move the `Population` and `bltper_1x1` folders into this folder
-for the script to work.
+folder to be populated. You will need to [download](https://www.mortality.org/cgi-bin/hmd/hmd_download.php) the ‘Period data’, ‘Population estimates (January 1)’ and ‘Life Tables - Both Sexes’, and then move the `Population` and `bltper_1x1` folders into this folder for the script to work.
 
-`codelist.csv` translates between the HMD-specific country codes and the ISO
-equivalents (eg GBR_NP instead of GBR for the UK), and may need updating if more
-countries are added and you wish to include them.
+`codelist.csv` translates between the HMD-specific country codes and the ISO equivalents (eg GBR_NP instead of GBR for the UK), and may need updating if more countries are added and you wish to include them.
+
+Citation:
+
+>HMD. Human Mortality Database. Max Planck Institute for Demographic  Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France). Available at [www.mortality.org](https://www.mortality.org/).
 
 ### `un/`
 

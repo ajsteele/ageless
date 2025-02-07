@@ -53,6 +53,25 @@ download_data <-
         unzip(dest_file, exdir = dest_dir)
       }
     }
+  }
+
+read_hmd <- function(filename, columns, col_widths) {
+    # Make a tibble to return
+    read_fwf(
+        filename,
+        fwf_widths(
+            col_widths,
+            columns
+        ),
+        skip = 3,
+        na = c(".")
+    ) %>%
+        select(-'deleteme') %>%
+        # This is a kludge which needs fixing - HMD uses eg 1973-  and 1973+ to
+        # denote populations before and after a border change. This causes
+        # issues so currently I'm just dropping them...
+        mutate(year = as.numeric(year)) %>%
+        drop_na(year)
 }
 
 read_life_table_hmd <-
@@ -69,17 +88,13 @@ read_life_table_hmd <-
     )
   
   # Make a tibble to return
-  read_fwf(
+  read_hmd(
     filename,
-    fwf_widths(
-      c(9,9,1,12),
-      # deleteme catches the + in 110+ at the end of the life tables, which
-      # thankfully is in its own column
-      c('year', 'age', 'deleteme', 'risk')
-    ),
-    skip = 3
-  ) %>%
-    select(-'deleteme')
+    # deleteme catches the + in 110+ at the end of the life tables, which
+    # thankfully is in its own column
+    c('year', 'age', 'deleteme', 'risk'),
+    c(9,9,1,12)
+    )
   }
 
 read_population_hmd <-
@@ -95,21 +110,12 @@ read_population_hmd <-
         file_suffix
       )
     
-    # Make a tibble to return
-    read_fwf(
-      filename,
-      fwf_widths(
-        c(9,9,1,20,16,16),
+    read_hmd(
+        filename,
         # deleteme catches the + in 110+ at the end of the life tables, which
         # thankfully is in its own column
         # 'population' is called 'total' in the source data
-        c('year', 'age', 'deleteme', 'female', 'male', 'population')
-      ),
-      skip = 3
-    ) %>%
-      select(-'deleteme') %>%
-      # This is a kludge which needs fixing - HMD uses eg 1973-  and 1973+ to
-      # denote populations before and after a border change. This causes issues
-      # so currently I'm just dropping them...
-      drop_na(year)
+        columns = c('year', 'age', 'deleteme', 'female', 'male', 'population'),
+        col_widths = c(9,9,1,20,16,16)
+    )
   }
